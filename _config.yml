@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tung Do"
   avatar           : "profile.jpg"
-  bio              : "M.Sc. ECE - Robotics candidate"
+  bio              : "M.Sc. ECE - Robotics candidate | Research Assistant"
   location         : "MI, USA"
-  employer         :
+  employer         : "University of Michigan, Ann Arbor"
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    :  
+  email            : "sontungcodedao@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/sontung1010"
+  github           : "sontung1010"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tung-do-534525231/"
   orcid            : 
   pinterest        :
   soundcloud       :
