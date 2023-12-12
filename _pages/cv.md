@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[[Download latest version, updated Dec 12, 2023](/files/TungDo_Resume.pdf)]
+
 Education
 ======
 * B.Sc. in Electromechanical Systems Engineering Technology, California State Polytechnic University - Pomona, 2023
