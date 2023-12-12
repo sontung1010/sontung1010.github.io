@@ -13,7 +13,7 @@ redirect_from:
 
 I am a graduate student at the University of Michigan, Ann Arbor, pursuing my Master's in Electrical and Computer Engineering. My study field specializes in Robotics.
 
-Before embarking on my graduate studies, I completed my Bachelor's degree in Electromechanical Systems Engineering Technology from California State Polytechnic University, Pomona, where I graduated as a Valedictorian of my class with honors. 
+I completed my Bachelor's degree in Electromechanical Systems Engineering Technology from California State Polytechnic University, Pomona.
 
 Currently, I am working as a Research Assistant with [ROAHM Lab](https://www.roahmlab.com/) and [UM Field Robotics Group](https://fieldrobotics.engin.umich.edu/). My primary research area is Autonomous Vehicles. 
 
