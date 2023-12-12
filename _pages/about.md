@@ -1,6 +1,7 @@
 ---
 # permalink: /
-title: "Tung Do"
+layout: archive
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
