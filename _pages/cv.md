@@ -17,7 +17,7 @@ Education
 * B.Sc. in Electromechanical Systems Engineering Technology, California State Polytechnic University - Pomona, 2023
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-<!-- Work experience
+Work experience
 ======
 * 12/2023-Present: Research Assistant
   * Heron Autonomous Maritime Robots Research with UM Field Robotics Group
@@ -83,13 +83,13 @@ Projects
 * Personal Project in progress: 
   * Hexapod Robot
   * Robotics Hand
-  * .vim setup -->
+  * .vim setup
 
-Work Experience
+<!-- Work Experience
 ======
   <ul>{% for post in site.portfolio reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
  
 Skills
 ======
@@ -122,7 +122,7 @@ Service and leadership
 
 Honors & Awards
 ======
-  <ul>{% for post in site.posts reversed %}
+  <ul>{% for post in site.posts %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
