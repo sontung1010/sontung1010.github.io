@@ -1,5 +1,5 @@
 ---
-permalink: /
+# permalink: /
 title: "Tung Do"
 excerpt: "About me"
 author_profile: true
