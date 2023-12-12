@@ -51,7 +51,7 @@ Projects
 ======
 * 10/2023-12/2023: Lead Engineer
   * Monocular 3D Object Detection
-  * Portfolio
+  * [Portfolio](https://sontung1010.github.io/portfolio/portfolio-98/)
   * GitHub repository
 
 * 8/2023-12/2023: Embedded Software Engineer
