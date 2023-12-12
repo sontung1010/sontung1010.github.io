@@ -36,15 +36,15 @@ Work experience
   * GitHub repository (UAV)
   * GitHub repository (UGV)
 
-* 5/2022 - 8/2022: Embeddded Software Developer Intern
+* 5/2022-8/2022: Embeddded Software Developer Intern
   * FPT USA Corp.
   * GitHub repository
 
-* 5/2021 - 7/2021: Software Development Intern
+* 5/2021-7/2021: Software Development Intern
   * Rakuna
   * GitHub repository
 
-* 9/2020 - 1/2021: Teaching Assistant
+* 9/2020-1/2021: Teaching Assistant
   * Prestige English Center
 
 Projects
