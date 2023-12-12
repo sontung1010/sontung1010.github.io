@@ -11,7 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-Unofficial
-{% for post in site.publications.unofficial  reversed %}
+{% for post in site.publications  reversed %}
   {% include archive-single.html %}
 {% endfor %}
