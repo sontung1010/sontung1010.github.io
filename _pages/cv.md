@@ -12,20 +12,23 @@ redirect_from:
 Education
 ======
 * B.Sc. in Electromechanical Systems Engineering Technology, California State Polytechnic University - Pomona, 2023
-* M.Sc. in , GitHub University, 2014
+* M.Sc. in Electrical and Computer Engineering - Robotics, University of Michigan, Ann Arbor, 2025 (expected)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 8/2023 - Present: Research Assistant
+  * University of Michigan, Ann Arbor
+  * Supervisor: Professor Ram Vasudevan and Dr. Elena Shrestha
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+Projects
+======
+* Monocular 3D Object Detection
   
 Skills
 ======
@@ -42,7 +45,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +59,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
+
+Origanizations
+======
+* Tau Beta Pi - The Engineering Honor Society (TBP)
+* Institute of Electrical and Electronics Engineers (IEEE)
