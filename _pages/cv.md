@@ -17,7 +17,7 @@ Education
 * M.Sc. in Electrical and Computer Engineering - Robotics, University of Michigan, Ann Arbor, 2025 (expected)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Work experience
+<!-- Work experience
 ======
 * 12/2023-Present: Research Assistant
   * Heron Autonomous Maritime Robots Research with UM Field Robotics Group
@@ -83,7 +83,7 @@ Projects
 * Personal Project in progress: 
   * Hexapod Robot
   * Robotics Hand
-  * .vim setup
+  * .vim setup -->
 
 Portfolio
 ======
