@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Electromechanical Systems Engineering Technology, California State Polytechnic University - Pomona, 2023
 * M.Sc. in Electrical and Computer Engineering - Robotics, University of Michigan, Ann Arbor, 2025 (expected)
+* B.Sc. in Electromechanical Systems Engineering Technology, California State Polytechnic University - Pomona, 2023
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 <!-- Work experience
@@ -85,7 +85,7 @@ Projects
   * Robotics Hand
   * .vim setup -->
 
-Portfolio
+Work Experience
 ======
   <ul>{% for post in site.portfolio reversed %}
     {% include archive-single-cv.html %}
