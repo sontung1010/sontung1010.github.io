@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-![hexapod](/images/hexapod.png)
+![hexapod](/images/about.JPG)
 
 I am a graduate student at the University of Michigan, Ann Arbor, pursuing my Master's in Electrical and Computer Engineering. My study field specializes in Robotics.
 
