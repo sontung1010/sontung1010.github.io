@@ -83,9 +83,6 @@ Publications
 * (Unofficial) Enhancing Monocular 3D Object Detection in Foggy Conditions - An Adapted MonoCon Approach for Autonomous Vehicles
 * (Unofficial) Autonomous/Remote Control Mecanum Wheels Tesla Roadster
 
-  <!-- <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 <!-- Talks
 ======
@@ -105,9 +102,6 @@ Service and leadership
 
 Honors & Awards
 ======
-  <!-- <ul>{% for post in site.posts %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
 * Valedictorian of the Electromechanical Systems Engineering Technology program for the 2022-23 graduating class, issued by California State Polytechnic University, Pomona
 * International Student Award Scholarship, issued by California State Polytechnic University, Pomona
