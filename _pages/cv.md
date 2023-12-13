@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * M.Sc. in Electrical and Computer Engineering - Robotics, University of Michigan, Ann Arbor, 2025 (expected)
-* B.Sc. in Electromechanical Systems Engineering Technology, California State Polytechnic University - Pomona, 2023
+* B.Sc. in Electromechanical Systems Engineering Technology, California State Polytechnic University - Pomona, 2023 [View]()
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
@@ -29,7 +29,7 @@ Work experience
 
 
 * 8/2022-5/2023: Embedded Software Engineer
-  * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project [[Portfolio]()][[Github]()]
+  * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project [[Portfolio]()][[UAV Github]()][[UGV GitHub]()]
 
 * 5/2022-8/2022: Embeddded Software Developer Intern 
   * FPT USA Corp. [[Portfolio]()][[Github]()]
@@ -80,8 +80,8 @@ Skills
 
 Publications
 ======
-* (Unofficial) Enhancing Monocular 3D Object Detection in Foggy Conditions - An Adapted MonoCon Approach for Autonomous Vehicles
-* (Unofficial) Autonomous/Remote Control Mecanum Wheels Tesla Roadster
+* (Unofficial) Enhancing Monocular 3D Object Detection in Foggy Conditions - An Adapted MonoCon Approach for Autonomous Vehicles [[View]()]
+* (Unofficial) Autonomous/Remote Control Mecanum Wheels Tesla Roadster [[View]()]
 
   
 <!-- Talks
@@ -103,20 +103,20 @@ Service and leadership
 Honors & Awards
 ======
 
-* Valedictorian of the Electromechanical Systems Engineering Technology program for the 2022-23 graduating class, issued by California State Polytechnic University, Pomona
+* Valedictorian of the Electromechanical Systems Engineering Technology program for the 2022-23 graduating class, issued by California State Polytechnic University, Pomona [View]()
 * International Student Award Scholarship, issued by California State Polytechnic University, Pomona
 * The distinction of being included on the Dean's Honor List in 2019, 2020, 2021, 2022; President's Honor List in 2020 and 2021, issued by California State Polytechnic University, Pomona
 
 Certifications
 ======
 * Udemy
-  * 100 Days of Code: The Complete Python Pro Bootcamp for 2023
-  * ARM Cortex-M7 STM32F7 Bare-Metal Programming
-  * C Programming For Beginners - Master the C Language
-  * Self Driving and ROS - Odometry & Control
+  * 100 Days of Code: The Complete Python Pro Bootcamp for 2023 [View]()
+  * ARM Cortex-M7 STM32F7 Bare-Metal Programming [View]()
+  * C Programming For Beginners - Master the C Language [View]()
+  * Self Driving and ROS - Odometry & Control [View]()
 
 Origanizations
 ======
-* Tau Beta Pi - The Engineering Honor Society (TBP)
+* Tau Beta Pi - The Engineering Honor Society (TBP) [View]()
 * Institute of Electrical and Electronics Engineers (IEEE)
 
