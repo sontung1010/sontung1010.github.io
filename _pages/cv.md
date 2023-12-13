@@ -24,7 +24,7 @@ Work experience
   * Supervisor: Professor Katherine A. Skinner and Dr. Elena Shrestha
 
 * 8/2023-Present: Research Assistant
-  * TD-Rex Rover Research with ROAHM Lab [[Portfolio]()][[Github]()]
+  * TD-Rex Rover Research with ROAHM Lab [[Portfolio]()][[Github](https://github.com/sontung1010/TD-Rex-Research)]
   * Supervisor: Professor Ram Vasudevan and Dr. Elena Shrestha
 
 
@@ -55,7 +55,7 @@ Projects
   * Autonomous Robot Competition [[Portfolio]()][[Github]()]
 
 * 1/2022-12/2022: Project Owner
-  * Autonomous/Remote Control Mecanum Wheel Tesla Roadster 1:6 [[Portfolio]()][[Github]()]
+  * Autonomous/Remote Control Mecanum Wheel Tesla Roadster 1:6 [[Portfolio]()][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)]
 
 * 10/2022: Project Owner
   * Iron Man Helmet [[Portfolio]()][[Github]()]
