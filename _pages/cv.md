@@ -29,7 +29,7 @@ Work experience
 
 
 * 8/2022-5/2023: Embedded Software Engineer
-  * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project [[Portfolio]()][[UAV Github]()][[UGV GitHub]()]
+  * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project [[Portfolio]()][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
 
 * 5/2022-8/2022: Embeddded Software Developer Intern 
   * FPT USA Corp. [[Portfolio]()][[Github]()]
