@@ -21,11 +21,11 @@ Work experience
 ======
 * 12/2023-Present: Research Assistant
   * Heron Autonomous Maritime Robots Research with UM Field Robotics Group [[Portfolio]()][[Github]()]
-  * Supervisor: Professor Katherine A. Skinner and Dr. Elena Shrestha
+  * Supervisor: [Professor Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
 * 8/2023-Present: Research Assistant
   * TD-Rex Rover Research with ROAHM Lab [[Portfolio]()][[Github](https://github.com/sontung1010/TD-Rex-Research)]
-  * Supervisor: Professor Ram Vasudevan and Dr. Elena Shrestha
+  * Supervisor: [Professor Ram Vasudevan](https://www.roahmlab.com/ram-personal) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
 
 * 8/2022-5/2023: Embedded Software Engineer
