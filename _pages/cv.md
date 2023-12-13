@@ -43,7 +43,7 @@ Work experience
 Projects
 ======
 * 10/2023-12/2023: Lead Engineer
-  * Monocular 3D Object Detection [[Portfolio]()][[Github]()]
+  * Monocular 3D Object Detection [[Portfolio]()][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)]
 
 * 8/2023-12/2023: Embedded Software Engineer
   * Advanced Driver Assistance Systems (ADAS) Simulation [[Portfolio]()][[Github]()]
