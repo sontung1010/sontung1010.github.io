@@ -20,65 +20,45 @@ Education
 Work experience
 ======
 * 12/2023-Present: Research Assistant
-  * Heron Autonomous Maritime Robots Research with UM Field Robotics Group
+  * Heron Autonomous Maritime Robots Research with UM Field Robotics Group [[Portfolio]()][[Github]()]
   * Supervisor: Professor Katherine A. Skinner and Dr. Elena Shrestha
-  * Portfolio
-  * GitHub repository
 
 * 8/2023-Present: Research Assistant
-  * TD-Rex Rover Research with ROAHM Lab
+  * TD-Rex Rover Research with ROAHM Lab [[Portfolio]()][[Github]()]
   * Supervisor: Professor Ram Vasudevan and Dr. Elena Shrestha
-  * Portfolio
-  * GitHub repository
 
 
 * 8/2022-5/2023: Embedded Software Engineer
-  * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project
-  * Portfolio
-  * GitHub repository (UAV)
-  * GitHub repository (UGV)
+  * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project [[Portfolio]()][[Github]()]
 
-* 5/2022-8/2022: Embeddded Software Developer Intern
-  * FPT USA Corp.
-  * GitHub repository
+* 5/2022-8/2022: Embeddded Software Developer Intern 
+  * FPT USA Corp. [[Portfolio]()][[Github]()]
 
 * 5/2021-7/2021: Software Development Intern
-  * Rakuna
-  * GitHub repository
+  * Rakuna [[Portfolio]()][[Github]()]
 
 * 9/2020-1/2021: Teaching Assistant
-  * Prestige English Center
+  * Prestige English Center 
 
 Projects
 ======
 * 10/2023-12/2023: Lead Engineer
   * Monocular 3D Object Detection
-  * [Portfolio](https://sontung1010.github.io/portfolio/portfolio-98/)
-  * GitHub repository
 
 * 8/2023-12/2023: Embedded Software Engineer
   * Advanced Driver Assistance Systems (ADAS) Simulation
-  * Portfolio
-  * GitHub repository
 
 * 1/2023-5/2023: Hardware Engineer
   * FPGA Projects
-  * Portfolio
-  * GitHub repository
 
 * 8/2022-12/2022: Lead Engineer
   * Autonomous Robot Competition
-  * Portfolio
-  * GitHub repository
 
 * 1/2022-12/2022: Project Owner
   * Autonomous/Remote Control Mecanum Wheel Tesla Roadster 1:6
-  * Portfolio
-  * GitHub repository
 
 * 10/2022: Project Owner
   * Iron Man Helmet
-  * Portfolio
 
 * Personal Project in progress: 
   * Hexapod Robot
@@ -100,9 +80,11 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+* (Unofficial) Enhancing Monocular 3D Object Detection in Foggy Conditions - An Adapted MonoCon Approach for Autonomous Vehicles
+* (Unofficial) Autonomous/Remote Control Mecanum Wheels Tesla Roadster
+  <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======
@@ -122,11 +104,11 @@ Service and leadership
 
 Honors & Awards
 ======
-  <ul>{% for post in site.posts %}
+  <!-- <ul>{% for post in site.posts %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
-<!-- * Valedictorian of the Electromechanical Systems Engineering Technology program for the 2022-23 graduating class, issued by California State Polytechnic University, Pomona -->
+* Valedictorian of the Electromechanical Systems Engineering Technology program for the 2022-23 graduating class, issued by California State Polytechnic University, Pomona
 * International Student Award Scholarship, issued by California State Polytechnic University, Pomona
 * The distinction of being included on the Dean's Honor List in 2019, 2020, 2021, 2022; President's Honor List in 2020 and 2021, issued by California State Polytechnic University, Pomona
 
