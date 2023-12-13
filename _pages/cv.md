@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * M.Sc. in Electrical and Computer Engineering - Robotics, University of Michigan, Ann Arbor, 2025 (expected)
-* B.Sc. in Electromechanical Systems Engineering Technology, California State Polytechnic University - Pomona, 2023 [[View]()]
+* B.Sc. in Electromechanical Systems Engineering Technology, California State Polytechnic University - Pomona, 2023 [[View](/images/eDiploma_official_.pdf)]
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
@@ -32,10 +32,10 @@ Work experience
   * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project [[Portfolio]()][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
 
 * 5/2022-8/2022: Embeddded Software Developer Intern 
-  * FPT USA Corp. [[Portfolio]()][[Github]()]
+  * FPT USA Corp. [[Portfolio]()][[Github](https://github.com/sontung1010/FPT_USA_Intern_Roku_Development)]
 
 * 5/2021-7/2021: Software Development Intern
-  * Rakuna [[Portfolio]()][[Github]()]
+  * Rakuna [[Portfolio]()][[Github](https://github.com/sontung1010/Rakuna_Intern_Web_Development)]
 
 * 9/2020-1/2021: Teaching Assistant
   * Prestige English Center 
@@ -46,24 +46,24 @@ Projects
   * Monocular 3D Object Detection [[Portfolio]()][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)]
 
 * 8/2023-12/2023: Embedded Software Engineer
-  * Advanced Driver Assistance Systems (ADAS) Simulation [[Portfolio]()][[Github]()]
+  * Advanced Driver Assistance Systems (ADAS) Simulation [[Portfolio]()][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
 
 * 1/2023-5/2023: Hardware Engineer
-  * FPGA Projects [[Portfolio]()][[Github]()]
+  * FPGA Projects [[Portfolio]()][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)]
 
 * 8/2022-12/2022: Lead Engineer
-  * Autonomous Robot Competition [[Portfolio]()][[Github]()]
+  * Autonomous Robot Competition [[Portfolio]()][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
 
 * 1/2022-12/2022: Project Owner
   * Autonomous/Remote Control Mecanum Wheel Tesla Roadster 1:6 [[Portfolio]()][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)]
 
 * 10/2022: Project Owner
-  * Iron Man Helmet [[Portfolio]()][[Github]()]
+  * Iron Man Helmet [[Portfolio]()]
 
 * Personal Project in progress: 
   * Hexapod Robot [[Portfolio]()][[Github]()]
   * Robotics Hand [[Portfolio]()][[Github]()]
-  * .vim setup [[Portfolio]()][[Github]()]
+  * .vim setup [[Portfolio]()][[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
 
 <!-- Work Experience
 ======
@@ -103,17 +103,17 @@ Service and leadership
 Honors & Awards
 ======
 
-* Valedictorian of the Electromechanical Systems Engineering Technology program for the 2022-23 graduating class, issued by California State Polytechnic University, Pomona [[View]()]
+* Valedictorian of the Electromechanical Systems Engineering Technology program for the 2022-23 graduating class, issued by California State Polytechnic University, Pomona [[View](/images/Valedictorian_recognition.png)]
 * International Student Award Scholarship, issued by California State Polytechnic University, Pomona
 * The distinction of being included on the Dean's Honor List in 2019, 2020, 2021, 2022; President's Honor List in 2020 and 2021, issued by California State Polytechnic University, Pomona
 
 Certifications
 ======
 * Udemy
-  * 100 Days of Code: The Complete Python Pro Bootcamp for 2023 [[View]()]
-  * ARM Cortex-M7 STM32F7 Bare-Metal Programming [[View]()]
-  * C Programming For Beginners - Master the C Language [[View]()]
-  * Self Driving and ROS - Odometry & Control [[View]()]
+  * 100 Days of Code: The Complete Python Pro Bootcamp for 2023 [[View](/images/Udemy_100_Days_Python.pdf)]
+  * ARM Cortex-M7 STM32F7 Bare-Metal Programming [[View](/images/Baremetal.pdf)]
+  * C Programming For Beginners - Master the C Language [[View](/images/C_Programming.pdf)]
+  * Self Driving and ROS - Odometry & Control [[View](/images/ROS_Self-driving.pdf)]
 
 Organizations
 ======
