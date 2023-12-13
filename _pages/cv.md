@@ -43,27 +43,27 @@ Work experience
 Projects
 ======
 * 10/2023-12/2023: Lead Engineer
-  * Monocular 3D Object Detection
+  * Monocular 3D Object Detection [[Portfolio]()][[Github]()]
 
 * 8/2023-12/2023: Embedded Software Engineer
-  * Advanced Driver Assistance Systems (ADAS) Simulation
+  * Advanced Driver Assistance Systems (ADAS) Simulation [[Portfolio]()][[Github]()]
 
 * 1/2023-5/2023: Hardware Engineer
-  * FPGA Projects
+  * FPGA Projects [[Portfolio]()][[Github]()]
 
 * 8/2022-12/2022: Lead Engineer
-  * Autonomous Robot Competition
+  * Autonomous Robot Competition [[Portfolio]()][[Github]()]
 
 * 1/2022-12/2022: Project Owner
-  * Autonomous/Remote Control Mecanum Wheel Tesla Roadster 1:6
+  * Autonomous/Remote Control Mecanum Wheel Tesla Roadster 1:6 [[Portfolio]()][[Github]()]
 
 * 10/2022: Project Owner
-  * Iron Man Helmet
+  * Iron Man Helmet [[Portfolio]()][[Github]()]
 
 * Personal Project in progress: 
-  * Hexapod Robot
-  * Robotics Hand
-  * .vim setup
+  * Hexapod Robot [[Portfolio]()][[Github]()]
+  * Robotics Hand [[Portfolio]()][[Github]()]
+  * .vim setup [[Portfolio]()][[Github]()]
 
 <!-- Work Experience
 ======
@@ -82,6 +82,7 @@ Publications
 ======
 * (Unofficial) Enhancing Monocular 3D Object Detection in Foggy Conditions - An Adapted MonoCon Approach for Autonomous Vehicles
 * (Unofficial) Autonomous/Remote Control Mecanum Wheels Tesla Roadster
+
   <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
