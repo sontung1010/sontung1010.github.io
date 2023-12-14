@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Download latest version, updated Dec 12, 2023](/files/TungDo_Resume.pdf)]
+[[Download latest version, updated Dec 14, 2023](/files/TungDo_Resume.pdf)]
 
 Education
 ======
@@ -42,7 +42,7 @@ Work experience
 
 Projects
 ======
-* 10/2023-12/2023: Lead Engineer
+* 10/2023-12/2023: Team Lead
   * Monocular 3D Object Detection [[Portfolio]()][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)]
 
 * 8/2023-12/2023: Embedded Software Engineer
