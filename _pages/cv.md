@@ -24,18 +24,18 @@ Work experience
   * Supervisors: [Professor Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
 * 8/2023-Present: Research Assistant
-  * TD-Rex Rover Research with ROAHM Lab [[Portfolio]()][[Github](https://github.com/sontung1010/TD-Rex-Research)]
+  * TD-Rex Rover Research with ROAHM Lab [[Portfolio](https://sontung1010.github.io/portfolio/2023-08-29-portfolio/)][[Github](https://github.com/sontung1010/TD-Rex-Research)][[Publication]()]
   * Supervisors: [Professor Ram Vasudevan](https://www.roahmlab.com/ram-personal) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
 
 * 8/2022-5/2023: Embedded Software Engineer
-  * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project [[Portfolio]()][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
+  * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project [[Portfolio](https://sontung1010.github.io/portfolio/2022-08-23-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
 
 * 5/2022-8/2022: Embeddded Software Developer Intern 
-  * FPT USA Corp. [[Portfolio]()][[Github](https://github.com/sontung1010/FPT_USA_Intern_Roku_Development)]
+  * FPT USA Corp. [[Portfolio](https://sontung1010.github.io/portfolio/2022-05-09-portfolio/)][[Github](https://github.com/sontung1010/FPT_USA_Intern_Roku_Development)]
 
 * 5/2021-7/2021: Software Development Intern
-  * Rakuna [[Portfolio]()][[Github](https://github.com/sontung1010/Rakuna_Intern_Web_Development)]
+  * Rakuna [[Portfolio](https://sontung1010.github.io/portfolio/2021-05-10-portfolio/)][[Github](https://github.com/sontung1010/Rakuna_Intern_Web_Development)]
 
 * 9/2020-1/2021: Teaching Assistant
   * Prestige English Center 
@@ -46,25 +46,27 @@ Projects
   * Monocular 3D Object Detection [[Portfolio](https://sontung1010.github.io/portfolio/2023-11-01-portfolio/)][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)][[Publication](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
 
 * 8/2023-12/2023: Embedded Software Engineer
-  * Advanced Driver Assistance Systems (ADAS) Simulation [[Portfolio]()][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
+  * Advanced Driver Assistance Systems (ADAS) Simulation [[Portfolio](https://sontung1010.github.io/portfolio/2023-08-28-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
 
 * 1/2023-5/2023: Hardware Engineer
-  * FPGA Projects [[Portfolio]()][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)]
+  * FPGA Projects [[Portfolio](https://sontung1010.github.io/portfolio/2023-01-15-portfolio/)][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)]
 
 * 8/2022-12/2022: Lead Engineer
-  * Autonomous Robot Competition [[Portfolio]()][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
+  * Autonomous Robot Competition [[Portfolio](https://sontung1010.github.io/portfolio/2022-08-22-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
 
 * 1/2022-12/2022: Project Owner
-  * Autonomous/Remote Control Mecanum Wheel Tesla Roadster 1:6 [[Portfolio]()][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
+  * Autonomous/Remote Control Mecanum Wheel Tesla Roadster 1:6 [[Portfolio](https://sontung1010.github.io/portfolio/2022-01-01-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
   * Advisor: [Professor Scott Boskovich](https://www.linkedin.com/in/scott-boskovich-phd-aa55b91/)
 
 * 10/2022: Project Owner
-  * Iron Man Helmet [[Portfolio]()]
+  * Iron Man Helmet [[Portfolio](https://sontung1010.github.io/portfolio/2022-10-10-portfolio/)]
 
 * Personal Project in progress: 
-  * Hexapod Robot [[Portfolio]()][[Github]()]
-  * Robotics Hand [[Portfolio]()][[Github]()]
-  * .vim setup [[Portfolio]()][[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
+  * Hexapod Robot [[Portfolio](https://sontung1010.github.io/portfolio/2023-07-01-portfolio/)][[Github]()]
+  * Robotics Hand [[Portfolio](https://sontung1010.github.io/portfolio/2023-06-01-portfolio/)][[Github]()]
+  * .vim setup [[Portfolio](https://sontung1010.github.io/portfolio/2021-06-01-portfolio/)][[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
+
+* Mini Projects [[Portfolio](https://sontung1010.github.io/portfolio/2018-08-22-portfolio/)]
 
 <!-- Work Experience
 ======
