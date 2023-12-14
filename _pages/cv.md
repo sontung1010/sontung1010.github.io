@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * 12/2023-Present: Research Assistant
-  * Heron Autonomous Maritime Robots Research with UM Field Robotics Group [[Portfolio]()][[Github]()]
+  * Heron Autonomous Maritime Robots Research with UM Field Robotics Group [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-04-portfolio/)][[Github]()][[Publication]()]
   * Supervisors: [Professor Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
 * 8/2023-Present: Research Assistant
