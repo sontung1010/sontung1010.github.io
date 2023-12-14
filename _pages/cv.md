@@ -84,8 +84,8 @@ Skills
 
 Publications
 ======
-* (Unofficial) Enhancing Monocular 3D Object Detection in Foggy Conditions - An Adapted MonoCon Approach for Autonomous Vehicles [[View]()]
-* (Unofficial) Autonomous/Remote Control Mecanum Wheels Tesla Roadster [[View]()]
+* (Unofficial) Enhancing Monocular 3D Object Detection in Foggy Conditions - An Adapted MonoCon Approach for Autonomous Vehicles [[View](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
+* (Unofficial) Autonomous/Remote Control Mecanum Wheels Tesla Roadster [[View](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
 
   
 <!-- Talks
@@ -107,7 +107,7 @@ Service and leadership
 Honors & Awards
 ======
 
-* Valedictorian of the Electromechanical Systems Engineering Technology program for the 2022-23 graduating class, issued by California State Polytechnic University, Pomona [[View](/images/Valedictorian_recognition.png)]
+* Valedictorian of the Electromechanical Systems Engineering Technology program for the 2022-23 graduating class, issued by California State Polytechnic University, Pomona [[View](https://sontung1010.github.io/posts/2023/04/14/blog-post-1/)]
 * International Student Award Scholarship, issued by California State Polytechnic University, Pomona
 * The distinction of being included on the Dean's Honor List in 2019, 2020, 2021, 2022; President's Honor List in 2020 and 2021, issued by California State Polytechnic University, Pomona
 
@@ -121,6 +121,6 @@ Certifications
 
 Organizations
 ======
-* Tau Beta Pi - The Engineering Honor Society (TBP) [[View]()]
+* Tau Beta Pi - The Engineering Honor Society (TBP) [[View](https://sontung1010.github.io/posts/2022/05/10/blog-post-1/)]
 * Institute of Electrical and Electronics Engineers (IEEE)
 
