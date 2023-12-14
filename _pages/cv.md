@@ -43,7 +43,7 @@ Work experience
 Projects
 ======
 * 10/2023-12/2023: Team Lead
-  * Monocular 3D Object Detection [[Portfolio]()][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)]
+  * Monocular 3D Object Detection [[Portfolio](https://sontung1010.github.io/portfolio/2023-11-01-portfolio/)][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)][[Publication](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
 
 * 8/2023-12/2023: Embedded Software Engineer
   * Advanced Driver Assistance Systems (ADAS) Simulation [[Portfolio]()][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
@@ -55,7 +55,7 @@ Projects
   * Autonomous Robot Competition [[Portfolio]()][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
 
 * 1/2022-12/2022: Project Owner
-  * Autonomous/Remote Control Mecanum Wheel Tesla Roadster 1:6 [[Portfolio]()][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)]
+  * Autonomous/Remote Control Mecanum Wheel Tesla Roadster 1:6 [[Portfolio]()][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
   * Advisor: [Professor Scott Boskovich](https://www.linkedin.com/in/scott-boskovich-phd-aa55b91/)
 
 * 10/2022: Project Owner
