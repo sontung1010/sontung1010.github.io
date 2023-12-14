@@ -77,7 +77,7 @@ Skills
 * Robotics: ROS, Rviz, Gazebo, OpenCV, PyTorch, TensorFlow, UNet, PointNet, CUDA, TensorRT
 * Software: C, C++, Python, Linux, Bash/Shell Scripting, Vim, Git, Debugger IDE, Docker, Google Colab, MATLAB, Simulink
 * Hardware: Microcontroller, FPGA, Verilog, x86, arch, ARM, GPIO, ADC, PWM, Timer, ISR, RTOS, CAN, I2C, SPI, USART, USB
-* Mechanical: SolidWorks, 3D Printing, Ansys
+* Mechanical: SolidWorks, 3D Printing
 
 Publications
 ======
