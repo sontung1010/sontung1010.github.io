@@ -12,7 +12,7 @@ collection: portfolio
 
 <div>
     <p>
-        <b>Brief:</b>
+        <b>Brief:</b> This project's goal is to create a Simulink model of a vehicle with Adaptive Cruise Control (ACC). ACC adjusts the vehicle's speed based on traffic conditions, maintaining a safe distance from the car ahead. The model includes a steering mechanism controlled by a haptic wheel and switches between manual and ACC modes. The ACC system uses inputs from a CAN bus, which communicates with up to six simulated vehicles, to control speed and maintain a safe gap. Additionally, the project involves developing an automatic steering controller using PID control, aimed at guiding the vehicle along the road with minimal error and maintaining stability at various speeds. The challenge is to balance the ACC and steering systems' responsiveness and stability.
     </p>
 </div>
 
@@ -44,6 +44,10 @@ collection: portfolio
 </div>
 <p></p>
 <div>
+    <p>
+        - The Adaptive Cruise Control (ACC) system uses the ChooseFront_Outputs_wrapper function to select the lead car from six others based on relative distance and speed. This function takes distances and speeds as inputs and outputs the lead car's distance and speed. Initially, the ACC system had a malfunction causing reverse driving upon activation, which was resolved by completely rebuilding the ACC logic from scratch, leading to proper functioning.<br>
+        - The automatic steering system incorporated two PD (Proportional-Derivative) control loops to manage the wheel position and the car's position on the road. This setup required tuning four gains: two proportional and two derivative. The process began with theoretical calculations of these gains for both the wheel (inner loop) and road position (outer loop) control, using specific system dynamics as targets. After establishing baseline gains, real-world testing and adjustments were made in a lab setting, primarily focusing on the derivative gain to ensure accurate following of the road and curve matching. The final gains were selected to optimize performance at a predetermined speed.
+    </p>
     <iframe width="420" height="315"
     src="https://youtube.com/embed/mkAzI7Z9w4U?si=Huq-hazSxKd1uG2i" 
     title="ADAS Simulation"
