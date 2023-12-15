@@ -30,15 +30,13 @@ collection: portfolio
 <div>
     <p>
         <b>Role:</b> Project Owner<br>
-        - Successfully developed wireless control/automatic features, including signal lights, driving wheel, windshield wiper, backlights, and headlights, on the vehicle with 6 Arduinos communicating with each other through NRF24L01 radio modules within a range of 160ft.<br>
-        - Successfully developed autonomous functions, including self-parking and object avoidance, using C and C++.
     </p>
 </div>
 
 
 <div>
     <p>
-        <b>Result</b>
+        <b>Process</b>
     </p>
 </div>
 
@@ -73,6 +71,8 @@ collection: portfolio
         Stepper motor testing
     </center>
     <br>
+
+    Here is the very first version of the chassis, just a simple version for movement tests and saving printing time. 
     <iframe width="420" height="315"
     src="https://youtube.com/embed/Ncy0qIDiqcs" 
     title="Autonomous/RC Mecanum Wheel Tesla Roadster"
@@ -83,6 +83,8 @@ collection: portfolio
         Chassis version 1
     </center>
     <br>
+
+    I would like my car to be function as a normal car, so I add some decorations such as light signal, head light, driving wheel turn when the vehicle turn, and windshield wiper. I also intended to make opening doors and hood. 
     <iframe width="420" height="315"
     src="https://youtube.com/embed/OVXVYojUQcU" 
     title="Autonomous/RC Mecanum Wheel Tesla Roadster"
@@ -93,6 +95,8 @@ collection: portfolio
         Almost real time light signal, driving wheel, windshield wiper
     </center>
     <br>
+
+    Now, it's time for real testing, and the motor and movement mechanism actually worked. They were just noisy. 
     <iframe width="420" height="315"
     src="https://youtube.com/embed/gQIb4aUZ7kU" 
     title="Autonomous/RC Mecanum Wheel Tesla Roadster"
@@ -103,12 +107,16 @@ collection: portfolio
         Wired Control test
     </center>
     <br>
+
+    Nobody wants to hold a cable behind a car, neither do I. So of course, I developed remote control systems to replaced the wired control.
     <img src="/images/tesla/1 (2).png">
     <img src="/images/tesla/1 (3).png">
     <center>
         Electronics diagrams
     </center>
     <br>
+
+    I had some troubles with the NRF24L01 modules but yet it was solved, by debugging code and add a ceramic capacitor right next to each of the radio modules to reduce the noisy signal.
     <iframe width="420" height="315"
     src="https://youtube.com/embed/EX_rGpalbtk" 
     title="Autonomous/RC Mecanum Wheel Tesla Roadster"
@@ -119,6 +127,8 @@ collection: portfolio
         Wireless Control test
     </center>
     <br>
+
+    A new problem came up. The current chassis was too weak and it bent inward, preventing the wheels from touching the ground and reduced friction to move. For a mecanum wheel, that was a serious problem. So I redesigned the chassis, and added some new features to hold the battery and board neatly. This structure also strengthen the overall structure. I also learned that printing with triangle infill would give the 3D printed part one of the sturdiest structure inside. 
     <iframe width="420" height="315"
     src="https://youtube.com/embed/yJCMx2HLuN4" 
     title="Autonomous/RC Mecanum Wheel Tesla Roadster"
@@ -129,6 +139,8 @@ collection: portfolio
         Chassis version 2 with stronger structure and place to hide battery and control board
     </center>
     <br>
+
+    At the time of this project, the new Tesla Roadster model was not yet released. And all I could find were some diagrams of the old model, so I designed the car body based on this, using 3D sketch in SolidWorks.
     <center>
         <img src="/images/tesla/1 (2).JPG">
         <img src="/images/tesla/1 (3).JPG">
@@ -167,6 +179,8 @@ collection: portfolio
         Design the car body - second approach
     </center>
     <br>
+
+    This project model was significant, so their printing time is also significant. It took about 2 days to print just 1 part, and I splitted my car into 8 parts to fit my Ender 3 Pro.
     <iframe width="420" height="315"
     src="https://youtube.com/embed/TLDZbAGUBRY" 
     title="Autonomous/RC Mecanum Wheel Tesla Roadster"
@@ -177,6 +191,8 @@ collection: portfolio
         Significant time to print only 1 in 8 parts of the car body
     </center>
     <br>
+
+    Looking at the mechanism of mecanum wheel, there are a lot to discuss about its pros and cons.
     <iframe width="420" height="315"
     src="https://youtube.com/embed/_JpsTfvbE70" 
     title="Autonomous/RC Mecanum Wheel Tesla Roadster"
@@ -187,6 +203,8 @@ collection: portfolio
         Mecanum wheel diagonnaly movement which has potential in lane changing
     </center>
     <br>
+
+    While waiting for the printing parts, I started developing autonomous functions for my project. This was a simple algorithm, if it sees anything in front of it, it will check both side, whichever side has more gap/distance, it will move toward that side, until it sees something on that side, it will turn back forward and repeat the whole process.
     <iframe width="420" height="315"
     src="https://youtube.com/embed/Unas1o-FTCE" 
     title="Autonomous/RC Mecanum Wheel Tesla Roadster"
@@ -197,6 +215,8 @@ collection: portfolio
         Autopilot testing phase 1
     </center>
     <br>
+
+    However, this algorithm has a lot of problems in its logic. For example, if there is nothing on the side, it will keep moving sideway until it reach the sideline of the road, which is unnecessary in real life situation.
     <iframe width="420" height="315"
     src="https://youtube.com/embed/TK-9yit__Eg" 
     title="Autonomous/RC Mecanum Wheel Tesla Roadster"
@@ -207,6 +227,8 @@ collection: portfolio
         Autopilot testing phase 2
     </center>
     <br>
+
+    So I had to changed the algorithm approach. And also change the chassis and motors because they are not efficient throughout testing.
     <img src="/images/tesla/1 (15).jpg">
     <iframe width="420" height="315"
     src="https://youtube.com/embed/IWa6CXdesd8" 
@@ -218,6 +240,8 @@ collection: portfolio
         Chassis version 3 and mecanum wheel version 2
     </center>
     <br>
+
+    Here is the progress of my car body assembly.
     <img src="/images/tesla/1 (7).JPG">
     <img src="/images/tesla/1 (8).JPG">
     <img src="/images/tesla/1 (9).JPG">
@@ -238,6 +262,8 @@ collection: portfolio
         Complete car body assembly
     </center>
     <br>
+
+    Now with the new car body, I had to test the wheel movement again because weight distribution was a crucial problem with this design. 
     <iframe width="420" height="315"
     src="https://youtube.com/embed/sfB4WoTjhro" 
     title="Autonomous/RC Mecanum Wheel Tesla Roadster"
@@ -258,11 +284,15 @@ collection: portfolio
         Another angle of Test remote control with full-size model weight
     </center>
     <br>
+
+    The PLA mecanum wheel was good to some points. But for this research to go further with its goals, I had to switched to the pre-built mecanum wheel with sturdier materials and rubber rollers. 
     <img src="/images/tesla/1 (20).JPG">
     <center>
         Chassis version 4 and mecanum wheel version 3
     </center>
     <br>
+
+    I also developed a better version of my wireless controller, with neater wire management to prevent short circuit. 
     <img src="/images/tesla/1 (21).JPG">
     <center>
         Wireless Controller version 1
@@ -278,6 +308,12 @@ collection: portfolio
         Wireless Handheld Controller version 2
     </center>
     <br>
+
+    The controller has 3 modes:<br>
+    - Red: Controller is on but the car will not receive anything, become idle.<br>
+    - Green: Controller is in manual mode, that the car will listen to the controller's command.<br>
+    - Purple: The car goes into autonomous mode, the function right now is checking for parking possibility, it is available then take action.<br>
+    During this process, the receiver on the car will also listen to interrupts from the controller command if it switches between modes. 
     <iframe width="420" height="315"
     src="https://youtube.com/embed/m0L_egLdBq4" 
     title="Autonomous/RC Mecanum Wheel Tesla Roadster"
@@ -288,6 +324,8 @@ collection: portfolio
         Testing new wireless handheld controller
     </center>
     <br>
+
+    I also tested the maximum distance that these NRF24L01 modules can hold. The result is about 160ft. 
     <iframe width="420" height="315"
     src="https://youtube.com/embed/LF5h2A2gOwo" 
     title="Autonomous/RC Mecanum Wheel Tesla Roadster"
@@ -298,12 +336,16 @@ collection: portfolio
         Testing wireless communication distance of radio modules
     </center>
     <br>
+
+    Due to time constraint, I had to make final modification for final demo assignments. 
     <img src="/images/tesla/j.JPG">
     <img src="/images/tesla/1 (25).JPG">
     <center>
         Final modification to complete the vehicle
     </center>
     <br>
+
+    The first autonomous function is object avoidance. The test was held in my apartment kitchen. 
     <iframe width="420" height="315"
     src="https://youtube.com/embed/DcdYFrik548" 
     title="Autonomous/RC Mecanum Wheel Tesla Roadster"
@@ -324,6 +366,8 @@ collection: portfolio
         Object avoidance phase 2 demo
     </center>
     <br>
+
+    The second autonomous function is self-parking function. It will check for multiple small divisions and store data in an array. If the data met the criteria, it is good to do do "self-parking" action. This algorithm could be done better with higher-performance controller board.  
     <iframe width="420" height="315"
     src="https://youtube.com/embed/mmJOzDvuc9I" 
     title="Autonomous/RC Mecanum Wheel Tesla Roadster"
@@ -334,6 +378,7 @@ collection: portfolio
         Autonomous Self-Parking Function Demo
     </center>
     <br>
+    In the end, I am truly proud of this project and myself for completing a project that requires so many skills in different areas. I was having fun building this project and the result of the research surprised me. I leave the link to my GitHub repo and report below!
 </div>
 <br>
 
