@@ -17,6 +17,6 @@ I received my Bachelor's degree in Electromechanical Systems Engineering Technol
 
 Currently, I am working as a Research Assistant with [ROAHM Lab](https://www.roahmlab.com/) and [UM Field Robotics Group](https://fieldrobotics.engin.umich.edu/). My primary research area is Autonomous Vehicles. 
 
-However, my interest also spreads across Bionic Robotics Arm, Quadruped Robots, Hexapod Robots, AI/ML, Computer Visions, Embedded Software, and Mechanical Design. My passion and goal are building fully functioning and even transforming robots. 
+However, my interest also spreads across Bionic Robotics Arm, Quadruped Robots, Hexapod Robots, Bipedal Robots, AI/ML, Computer Visions, Embedded Software, and Mechanical Design. My passion and goal are building fully functioning and even transforming robots. 
 
 For work or professional inquiries, I can be reached at my email address or through my LinkedIn profile. 
