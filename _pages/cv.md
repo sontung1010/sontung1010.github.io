@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-[[Download latest version, updated Dec 15, 2023](/files/TungDo_Resume.pdf)]
+[[Download latest version, updated Dec 20, 2023](/files/TungDo_Resume.pdf)]
 
 Education
 ======
 * M.Sc. in Electrical and Computer Engineering - Robotics, University of Michigan, Ann Arbor, 2025 (expected)
+  * GPA: 4.0/4.0
 * B.Sc. in Electromechanical Systems Engineering Technology, California State Polytechnic University - Pomona, 2023 [[View](/images/eDiploma_official_.pdf)]
+  * Valedictorian, Magna cum laude
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
