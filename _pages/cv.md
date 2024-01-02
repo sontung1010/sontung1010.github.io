@@ -33,7 +33,7 @@ Work experience
 * 8/2022-5/2023: Embedded Software Engineer
   * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project [[Portfolio](https://sontung1010.github.io/portfolio/2022-08-23-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
 
-* 5/2022-8/2022: Embeddded Software Developer Intern 
+* 5/2022-8/2022: Embedded Software Developer Intern 
   * FPT USA Corp. [[Portfolio](https://sontung1010.github.io/portfolio/2022-05-09-portfolio/)][[Github](https://github.com/sontung1010/FPT_USA_Intern_Roku_Development)]
 
 * 5/2021-7/2021: Software Development Intern
