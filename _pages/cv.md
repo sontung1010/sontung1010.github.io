@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Download latest version, updated Jan 2, 2024](/files/TungDo_Resume.pdf)]
+[[Download latest version, updated Jan 19, 2024](/files/TungDo_Resume.pdf)]
 
 Education
 ======
@@ -124,5 +124,6 @@ Certifications
 Organizations
 ======
 * Tau Beta Pi - The Engineering Honor Society (TBP) [[View](https://sontung1010.github.io/posts/2022/05/10/blog-post-1/)]
+* Eta Kappa Nu - International Honor Society of Electrical and Electronics Engineers (IEEE-HKN)
 * Institute of Electrical and Electronics Engineers (IEEE)
 
