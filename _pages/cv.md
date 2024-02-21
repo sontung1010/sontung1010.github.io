@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Download latest version, updated Jan 21, 2024](/files/TungDo_Resume.pdf)]
+[[Download latest version, updated Feb 19, 2024](/files/TungDo_Resume.pdf)]
 
 Education
 ======
@@ -22,7 +22,7 @@ Education
 Work experience
 ======
 * 12/2023-Present: Research Assistant
-  * Heron Autonomous Maritime Robots Research with UM Field Robotics Group [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-04-portfolio/)][[Github]()][[Publication]()]
+  * Heron Autonomous Maritime Robots Research with [UM Field Robotics Group](https://fieldrobotics.engin.umich.edu/team) [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-04-portfolio/)][[Github]()][[Publication]()]
   * Supervisors: [Professor Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
 * 8/2023-Present: Research Assistant
@@ -79,9 +79,9 @@ Projects
  
 Skills
 ======
-* Robotics: ROS, Rviz, Gazebo, OpenCV, PyTorch, TensorFlow, UNet, PointNet, CUDA, TensorRT
+* Robotics: ROS,ROS2, Rviz, Gazebo, OpenCV, PyTorch, TensorFlow, CUDA
 * Software: C, C++, Python, Linux, Bash/Shell Scripting, Vim, Git, Debugger IDE, Docker, Google Colab, MATLAB, Simulink
-* Hardware: Microcontroller, FPGA, Verilog, x86, arch, ARM, GPIO, ADC, PWM, Timer, ISR, RTOS, CAN, I2C, SPI, USART, USB
+* Hardware: Microcontroller, x86, arch, ARM, GPIO, ADC, PWM, Timer, ISR, RTOS, CAN, I2C, SPI, USART, USB
 * Mechanical: SolidWorks, 3D Printing
 
 Publications
