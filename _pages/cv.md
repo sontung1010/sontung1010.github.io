@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Download latest version, updated Feb 19, 2024](/files/TungDo_Resume.pdf)]
+[[Download latest version, updated Feb 24, 2024](/files/TungDo_Resume.pdf)]
 
 Education
 ======
@@ -79,9 +79,9 @@ Projects
  
 Skills
 ======
-* Robotics: ROS,ROS2, Rviz, Gazebo, OpenCV, PyTorch, TensorFlow, CUDA
-* Software: C, C++, Python, Linux, Bash/Shell Scripting, Vim, Git, Debugger IDE, Docker, Google Colab, MATLAB, Simulink
-* Hardware: Microcontroller, x86, arch, ARM, GPIO, ADC, PWM, Timer, ISR, RTOS, CAN, I2C, SPI, USART, USB
+* Robotics: ROS,ROS2, Simulation (Rviz, Gazebo), Sensor Integration (LIDAR, Camera), Machine Learning (PyTorch, TensorFlow), Control Systems (PID, MATLAB, Simulink), Computer Vision (OpenCV)
+* Software: C, C++, Python, Linux, Bash/Shell Scripting, Git, Debugger, Docker
+* Hardware: Microcontroller, ARM, GPIO, ADC, PWM, Timer, ISR, RTOS, CAN, I2C, SPI, USART, USB
 * Mechanical: SolidWorks, 3D Printing
 
 Publications
