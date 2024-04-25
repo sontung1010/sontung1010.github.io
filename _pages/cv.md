@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Download latest version, updated Feb 29, 2024](/files/TungDo_Resume.pdf)]
+[[Download latest version, updated Apr 25, 2024](/files/TungDo_CurriculumVitae.pdf)]
 
 Education
 ======
@@ -19,17 +19,34 @@ Education
   * Valedictorian, Magna cum laude
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Work experience
+Academic Research Experience
 ======
-* 12/2023-Present: Research Assistant
-  * Heron Autonomous Maritime Robots Research with [UM Field Robotics Group](https://fieldrobotics.engin.umich.edu/team) [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-04-portfolio/)][[Github]()][[Publication]()]
-  * Supervisors: [Professor Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
-
 * 8/2023-Present: Research Assistant
-  * TD-Rex Rover Research with ROAHM Lab [[Portfolio](https://sontung1010.github.io/portfolio/2023-08-29-portfolio/)][[Github](https://github.com/sontung1010/TD-Rex-Research)][[Publication]()]
-  * Supervisors: [Professor Ram Vasudevan](https://www.roahmlab.com/ram-personal) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
+  * Multimodal Perception & Reinforcement Learning for UxV Guidance & Control Research with [ROAHM Lab](https://www.roahmlab.com/) and [UM Field Robotics Group](https://fieldrobotics.engin.umich.edu/team)
+  [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
+  * Supervisors: [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal), [Prof. Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
+
+* 6/2023-Present: Researcher
+  * Hexapod Robot for Multi-Terrain Exploration [[Portfolio](https://sontung1010.github.io/portfolio/2024-02-05-portfolio/)][[Github]()][[Publication]()]
+
+* 2/2024-4/2024: Researcher
+  * Enhancing Vision based SLAM through Shadow Removal Processing [[Portfolio]()][[Github]()][[Publication]()]
+  * Advisor: [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/)
+
+* 10/2023-12/2023: Researcher
+  * Monocular 3D Object Detection [[Portfolio](https://sontung1010.github.io/portfolio/2023-11-01-portfolio/)][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)][[Publication](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
+  * Advisor: [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/)
+
+* 1/2023-5/2023: Researcher
+  * FPGA Projects [[Portfolio](https://sontung1010.github.io/portfolio/2023-01-15-portfolio/)][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)]
+
+* 1/2022-12/2022: Researcher
+  * Autonomous/Remote Control Mecanum Wheel Tesla Roadster 1:6 [[Portfolio](https://sontung1010.github.io/portfolio/2022-01-01-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
+  * Advisor: [Prof. Scott Boskovich](https://www.linkedin.com/in/scott-boskovich-phd-aa55b91/)
 
 
+Professional Experience
+======
 * 8/2022-5/2023: Embedded Software Engineer
   * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project [[Portfolio](https://sontung1010.github.io/portfolio/2022-08-23-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
 
@@ -44,27 +61,18 @@ Work experience
 
 Projects
 ======
-* 10/2023-12/2023: Team Lead
-  * Monocular 3D Object Detection [[Portfolio](https://sontung1010.github.io/portfolio/2023-11-01-portfolio/)][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)][[Publication](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
-
 * 8/2023-12/2023: Embedded Software Engineer
   * Advanced Driver Assistance Systems (ADAS) Simulation [[Portfolio](https://sontung1010.github.io/portfolio/2023-08-28-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
 
-* 1/2023-5/2023: Hardware Engineer
-  * FPGA Projects [[Portfolio](https://sontung1010.github.io/portfolio/2023-01-15-portfolio/)][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)]
 
 * 8/2022-12/2022: Lead Engineer
   * Autonomous Robot Competition [[Portfolio](https://sontung1010.github.io/portfolio/2022-08-22-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
 
-* 1/2022-12/2022: Project Owner
-  * Autonomous/Remote Control Mecanum Wheel Tesla Roadster 1:6 [[Portfolio](https://sontung1010.github.io/portfolio/2022-01-01-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
-  * Advisor: [Professor Scott Boskovich](https://www.linkedin.com/in/scott-boskovich-phd-aa55b91/)
 
 * 10/2022: Project Owner
   * Iron Man Helmet [[Portfolio](https://sontung1010.github.io/portfolio/2022-10-10-portfolio/)]
 
 * Personal Project in progress: 
-  * Hexapod Robot [[Portfolio](https://sontung1010.github.io/portfolio/2023-07-01-portfolio/)][[Github]()]
   * Robotics Hand [[Portfolio](https://sontung1010.github.io/portfolio/2023-06-01-portfolio/)][[Github]()]
   * .vim setup [[Portfolio](https://sontung1010.github.io/portfolio/2021-06-01-portfolio/)][[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
   * This whole Portfolio website and special thanks to Minimal Mistakes
@@ -79,13 +87,14 @@ Projects
  
 Skills
 ======
-* Robotics: ROS,ROS2, Simulation (Rviz, Gazebo), Sensor Integration (LIDAR, Camera), Machine Learning (PyTorch, TensorFlow), Control Systems (PID, MATLAB, Simulink), Computer Vision (OpenCV)
-* Software: C, C++, Python, Linux, Bash/Shell Scripting, Git, Debugger, Docker
+* Robotics: ROS,ROS2, Simulation (Rviz, Gazebo), Sensor Integration (LIDAR, Camera, IMU), SLAM, Machine Learning (PyTorch, TensorFlow), Control Systems (PID, MATLAB, Simulink), Computer Vision (OpenCV)
+* Software: Python, C++, C, Linux, Bash/Shell Scripting, Git, Debugger, Docker
 * Hardware: Microcontroller, ARM, GPIO, ADC, PWM, Timer, ISR, RTOS, CAN, I2C, SPI, USART, USB
-* Mechanical: SolidWorks, 3D Printing
+* Mechanical: SolidWorks, 3D Printing, ANSYS FEA
 
 Publications
 ======
+* (Unofficial) Enhancing Vision based SLAM through Shadow Removal Processing [[View]()]
 * (Unofficial) Enhancing Monocular 3D Object Detection in Foggy Conditions - An Adapted MonoCon Approach for Autonomous Vehicles [[View](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
 * (Unofficial) Autonomous/Remote Control Mecanum Wheels Tesla Roadster [[View](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
 
