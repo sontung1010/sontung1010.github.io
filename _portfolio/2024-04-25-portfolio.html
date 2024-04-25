@@ -1,21 +1,9 @@
 ---
 title: "Multimodal Perception & Reinforcement Learning for UxV Guidance & Control (Work in Progress)"
-excerpt: "Research about USV<br/><img src='/images/UxV/MBRL_.png'>"
+excerpt: "Research about Multimodal Perception & Reinforcement Learning for UxV Guidance & Control<br/><img src='/images/UxV/MBRL_.png'>"
 collection: portfolio
 ---
 
-
-<div>
-    <iframe width="420" height="315"
-    src="https://youtube.com/embed/Orte6Uv_mGU&t=987s" 
-    title="UxV"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-    </iframe>
-    <center>
-        Dr. Elena Shrestha's presentation of our research.
-    </center>
-</div>
 
 <div>
     <b>Supervisors:</b> <a href="https://www.roahmlab.com/ram-personal" target="_blank">Prof. Ram Vasudevan</a>, <a href="https://fieldrobotics.engin.umich.edu/team" target="_blank">Prof. Katherine A. Skinner</a> and <a href="https://www.linkedin.com/in/elena-shrestha/" target="_blank">Dr. Elena Shrestha</a>
@@ -25,7 +13,7 @@ collection: portfolio
 
 <div>
     <p>
-        <b>Brief:</b> While reinforcement learning offers potential for continual learning and adaptability in complex scenarios, its application to real-world robotics faces significant challenges. Unlike in simulations, physical platforms struggle to collect a diverse corpus of training data due to critical safety risks and the inherent constraints of operating within a dynamic and partially observable environment. Our work draws inspiration from the human capability to fuse and exploit multiple sensing modalities, construct comprehensive models of how the world operates, and then leverage those models to adeptly navigate in challenging and often unpredictable environments. Here is an overview of how unmanned vehicles (ground, air, and surface) can exploit a world model constructed through multimodal perception, to learn near-optimal policies for guidance and control. A key aspect of the approach is learning from imagination in which the world model is used to simulate future imagined trajectories, enabling it to anticipate potential risks before encountering them in the real world. Our ongoing work and long-term vision is to evolve the traditional sense-plan-act framework into a more intuitive and cognitively inspired sense-imagine-act model.
+        <b>Brief:</b> While reinforcement learning offers potential for continual learning and adaptability in complex scenarios, its application to real-world robotics faces significant challenges. Unlike in simulations, physical platforms struggle to collect a diverse corpus of training data due to critical safety risks and the inherent constraints of operating within a dynamic and partially observable environment. Our work draws inspiration from the human capability to fuse and exploit multiple sensing modalities, construct comprehensive models of how the world operates, and then leverage those models to adeptly navigate in challenging and often unpredictable environments. Here is an overview of how unmanned vehicles (ground, air, and surface) can exploit a world model constructed through multimodal perception, to learn near-optimal policies for guidance and control. A key aspect of the approach is learning from imagination in which the world model is used to simulate future imagined trajectories, enabling it to anticipate potential risks before encountering them in the real world. Our ongoing work and long-term vision is to evolve the traditional sense-plan-act framework into a more intuitive and cognitively inspired sense-imagine-act model. <a href="https://www.youtube.com/watch?v=Orte6Uv_mGU&t=987s" target="_blank">Dr. Elena Shrestha's presentation of our research.</a>
 
     </p>
 </div>
@@ -41,14 +29,14 @@ collection: portfolio
 <div>
     <p>
         <b>Contribution:</b><br>
-        For USV Autonomous Maritime Robots with UM Field Robotics Group 	
-        - Programmed the Unmanned Surface Vehicle’s (USV) Unified Robot Description Format (URDF) model and the University of Michigan’s Marine Hydrodynamics Lab “world” model to establish the simulation environment using ROS2 and Gazebo Garden. This setup facilitated the testing of autonomous functions and the conduct of deep-learning research. 
-        - Developed an object avoidance algorithm using Python and C++ to assess the experiment's performance in both real-world and simulated environment.
-        - Conducted real-world tests to collect LIDAR, odometry, drive, velocity, and IMU data, which was then replicated in the simulation environment. Currently, efforts are focused on analyzing and post-processing the data using Python. 
-        For TD-Rex Autonomous Rover with ROAHM Lab
-        - Developed waypoint-follower algorithm for multi-agent experiments using the ‘cartographer_ros’ package for map building and localization. 
-        - Built and programmed embedded control systems on STM32 VESC and Jetson TX2 board’s Linux environment for a second autonomous rover. Set up basic teleop controller, lidar scan, IMU calibration, and SLAM with cartographer. Fixed the cartographer_ros flipping issue between multiple frame transforms.
-        - Participated in optimizing the board’s performance using the UNet deep learning architecture to enhance the efficiency of semantic segmentation by reducing its callback duration by 5 times.  
+        For USV Autonomous Maritime Robots with UM Field Robotics Group <br> 	
+        - Programmed the Unmanned Surface Vehicle’s (USV) Unified Robot Description Format (URDF) model and the University of Michigan’s Marine Hydrodynamics Lab “world” model to establish the simulation environment using ROS2 and Gazebo Garden. This setup facilitated the testing of autonomous functions and the conduct of deep-learning research.<br>
+        - Developed an object avoidance algorithm using Python and C++ to assess the experiment's performance in both real-world and simulated environment.<br>
+        - Conducted real-world tests to collect LIDAR, odometry, drive, velocity, and IMU data, which was then replicated in the simulation environment. Currently, efforts are focused on analyzing and post-processing the data using Python.<br>
+        For TD-Rex Autonomous Rover with ROAHM Lab<br>
+        - Developed waypoint-follower algorithm for multi-agent experiments using the ‘cartographer_ros’ package for map building and localization.<br>
+        - Built and programmed embedded control systems on STM32 VESC and Jetson TX2 board’s Linux environment for a second autonomous rover. Set up basic teleop controller, lidar scan, IMU calibration, and SLAM with cartographer. Fixed the cartographer_ros flipping issue between multiple frame transforms.<br>
+        - Participated in optimizing the board’s performance using the UNet deep learning architecture to enhance the efficiency of semantic segmentation by reducing its callback duration by 5 times.<br>
 
 
 
