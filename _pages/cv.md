@@ -66,7 +66,7 @@ Projects
 
 
 * 8/2022-12/2022: Lead Engineer
-  * Autonomous Robot Competition [[Portfolio](https://sontung1010.github.io/portfolio/2022-08-22-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
+  * Autonomous Robot Competition [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
 
 
 * 10/2022: Project Owner
