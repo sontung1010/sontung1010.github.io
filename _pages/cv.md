@@ -40,7 +40,7 @@ Academic Research Experience
   * Monocular 3D Object Detection [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-12-portfolio/)][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)][[Publication](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
   * Advisor: [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/)
 
-* 1/2023-5/2023: Researcher
+* 1/2023-4/2023: Researcher
   * FPGA Toolchain for MacOS [[Portfolio](https://sontung1010.github.io/portfolio/2023-04-16-portfolio/)][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)]
 
 * 1/2022-12/2022: Researcher
