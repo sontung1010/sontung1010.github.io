@@ -54,10 +54,10 @@ Professional Experience
   * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project [[Portfolio](https://sontung1010.github.io/portfolio/2023-05-29-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
 
 * 5/2022-8/2022: Embedded Software Developer Intern 
-  * FPT USA Corp. [[Portfolio](https://sontung1010.github.io/portfolio/2022-05-09-portfolio/)][[Github](https://github.com/sontung1010/FPT_USA_Intern_Roku_Development)]
+  * FPT USA Corp. [[Github](https://github.com/sontung1010/FPT_USA_Intern_Roku_Development)]
 
 * 5/2021-7/2021: Software Development Intern
-  * Rakuna [[Portfolio](https://sontung1010.github.io/portfolio/2021-05-10-portfolio/)][[Github](https://github.com/sontung1010/Rakuna_Intern_Web_Development)]
+  * Rakuna [[Github](https://github.com/sontung1010/Rakuna_Intern_Web_Development)]
 
 * 9/2020-1/2021: Teaching Assistant
   * Prestige English Center 
@@ -88,7 +88,7 @@ Projects
  
 Skills
 ======
-* Robotics: ROS,ROS2, Simulation (Rviz, Gazebo), Sensor Integration (LIDAR, Camera, IMU), SLAM, Machine Learning (PyTorch, TensorFlow), Control Systems (PID, MATLAB, Simulink), Computer Vision (OpenCV)
+* Robotics: ROS, ROS2, Simulation (Rviz, Gazebo), Sensor Integration (LIDAR, Camera, IMU), SLAM, Machine Learning (PyTorch, TensorFlow), Control Systems (PID, MATLAB, Simulink), Computer Vision (OpenCV)
 * Software: Python, C++, C, Linux, Bash/Shell Scripting, Git, Debugger, Docker
 * Hardware: Microcontroller, ARM, GPIO, ADC, PWM, Timer, ISR, RTOS, CAN, I2C, SPI, USART, USB
 * Mechanical: SolidWorks, 3D Printing, ANSYS FEA
