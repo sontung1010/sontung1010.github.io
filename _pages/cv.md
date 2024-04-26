@@ -94,7 +94,7 @@ Skills
 
 Publications
 ======
-* (Unofficial) Enhancing Vision based SLAM through Shadow Removal Processing [[View]()]
+* (Unofficial) Enhancing Vision based SLAM through Shadow Removal Processing [[View](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing)]
 * (Unofficial) Enhancing Monocular 3D Object Detection in Foggy Conditions - An Adapted MonoCon Approach for Autonomous Vehicles [[View](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
 * (Unofficial) Autonomous/Remote Control Mecanum Wheels Tesla Roadster [[View](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
 
