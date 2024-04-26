@@ -3,7 +3,7 @@ title: "(Unofficial) Enhancing Vision based SLAM through Shadow Removal Processi
 collection: publications
 permalink: /publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-12-10
+date: 2024-04-19
 # venue: 'Journal 1'
 # paperurl: 'http://sontung1010.github.io/files/Enhancing_Monocular_3D_Object_Detection_in_Foggy_Conditions.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
