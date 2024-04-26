@@ -72,15 +72,15 @@ Projects
   * Autonomous Robot Competition [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
 
 
-* 10/2022: Project Owner
-  * Iron Man Helmet [[Portfolio](https://sontung1010.github.io/portfolio/2022-10-10-portfolio/)]
+<!-- * 10/2022: Project Owner
+  * Iron Man Helmet [[Portfolio](https://sontung1010.github.io/portfolio/2022-10-10-portfolio/)] -->
 
 * Personal Project in progress: 
   * Robotics Hand [[Portfolio](https://sontung1010.github.io/portfolio/2023-06-01-portfolio/)][[Github]()]
-  * .vim setup [[Portfolio](https://sontung1010.github.io/portfolio/2021-06-01-portfolio/)][[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
+  * .vim setup [[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
   * This whole Portfolio website and special thanks to Minimal Mistakes
 
-* Mini Projects [[Portfolio](https://sontung1010.github.io/portfolio/2018-08-22-portfolio/)]
+<!-- * Mini Projects [[Portfolio](https://sontung1010.github.io/portfolio/2018-08-22-portfolio/)] -->
 
 <!-- Work Experience
 ======
