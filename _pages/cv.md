@@ -41,7 +41,7 @@ Academic Research Experience
   * FPGA Projects [[Portfolio](https://sontung1010.github.io/portfolio/2023-01-15-portfolio/)][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)]
 
 * 1/2022-12/2022: Researcher
-  * Autonomous/Remote Control Mecanum Wheel Tesla Roadster 1:6 [[Portfolio](https://sontung1010.github.io/portfolio/2022-01-01-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
+  * Autonomous/Remote Control Mecanum Wheel Tesla Roadster in real-world [[Portfolio](https://sontung1010.github.io/portfolio/2022-01-01-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
   * Advisor: [Prof. Scott Boskovich](https://www.linkedin.com/in/scott-boskovich-phd-aa55b91/)
 
 
