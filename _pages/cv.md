@@ -67,18 +67,16 @@ Projects
 * 8/2023-12/2023: Embedded Software Engineer
   * Advanced Driver Assistance Systems (ADAS) Simulation [[Portfolio](https://sontung1010.github.io/portfolio/2023-10-31-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
 
-
 * 8/2022-12/2022: Lead Engineer
   * Autonomous Robot Competition [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
-
-
-<!-- * 10/2022: Project Owner
-  * Iron Man Helmet [[Portfolio](https://sontung1010.github.io/portfolio/2022-10-10-portfolio/)] -->
 
 * Personal Project in progress: 
   * Robotics Hand [[Portfolio](https://sontung1010.github.io/portfolio/2023-06-01-portfolio/)][[Github]()]
   * .vim setup [[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
   * This whole Portfolio website and special thanks to Minimal Mistakes
+
+<!-- * 10/2022: Project Owner
+  * Iron Man Helmet [[Portfolio](https://sontung1010.github.io/portfolio/2022-10-10-portfolio/)] -->
 
 <!-- * Mini Projects [[Portfolio](https://sontung1010.github.io/portfolio/2018-08-22-portfolio/)] -->
 
