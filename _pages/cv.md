@@ -15,8 +15,11 @@ Education
 ======
 * M.Sc. in Electrical and Computer Engineering - Robotics, University of Michigan, Ann Arbor, 2025 (expected)
   * GPA: 4.0/4.0
+  * Relevant Coursework: Embedded Control Systems, Self-Driving Cars, Computer Vision, Mobile Robotics, Math for Robotics
+
 * B.Sc. in Electromechanical Systems Engineering Technology, California State Polytechnic University - Pomona, 2023 [[View](/images/eDiploma_official_.pdf)]
   * Valedictorian, Magna cum laude
+  * Relevant Coursework: C/C++, Robotics, Autonomous Vehicle, Feedback Control Systems, Digital Design FPGA, Engineering Graphics
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Academic Research Experience
@@ -132,7 +135,10 @@ Certifications
 
 Organizations
 ======
+* ROAHM Lab [[View](https://www.roahmlab.com/)]
+* UMich Field Robotics Group [[View](https://fieldrobotics.engin.umich.edu/team)]
 * Tau Beta Pi - The Engineering Honor Society (TBP) [[View](https://sontung1010.github.io/posts/2022/05/10/blog-post-1/)]
 * Eta Kappa Nu - International Honor Society of Electrical and Electronics Engineers (IEEE-HKN)
 * Institute of Electrical and Electronics Engineers (IEEE)
+* Northrop Grumman Collaboration Project [[View](https://www.linkedin.com/company/northrop-grumman-collaboration-project/)]
 
