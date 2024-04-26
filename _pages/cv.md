@@ -41,7 +41,7 @@ Academic Research Experience
   * Advisor: [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/)
 
 * 1/2023-5/2023: Researcher
-  * FPGA Projects [[Portfolio](https://sontung1010.github.io/portfolio/2023-04-16-portfolio/)][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)]
+  * FPGA Toolchain for MacOS [[Portfolio](https://sontung1010.github.io/portfolio/2023-04-16-portfolio/)][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)]
 
 * 1/2022-12/2022: Researcher
   * Autonomous/Remote Control Mecanum Wheel Tesla Roadster in real-world [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-18-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
