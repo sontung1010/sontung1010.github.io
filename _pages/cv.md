@@ -62,7 +62,7 @@ Professional Experience
 Projects
 ======
 * 8/2023-12/2023: Embedded Software Engineer
-  * Advanced Driver Assistance Systems (ADAS) Simulation [[Portfolio](https://sontung1010.github.io/portfolio/2023-08-28-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
+  * Advanced Driver Assistance Systems (ADAS) Simulation [[Portfolio](https://sontung1010.github.io/portfolio/2023-10-31-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
 
 
 * 8/2022-12/2022: Lead Engineer
