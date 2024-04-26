@@ -33,7 +33,7 @@ Academic Research Experience
   * Hexapod Robot for Multi-Terrain Exploration [[Portfolio](https://sontung1010.github.io/portfolio/2024-02-05-portfolio/)][[Github]()][[Publication]()]
 
 * 2/2024-4/2024: Researcher
-  * Enhancing Vision based SLAM through Shadow Removal Processing [[Portfolio]()][[Github](https://github.com/dyingplant/mobrob11)][[Publication](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing)]
+  * Enhancing Vision based SLAM through Shadow Removal Processing [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-19-portfolio/)][[Github](https://github.com/dyingplant/mobrob11)][[Publication](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing)]
   * Advisor: [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/)
 
 * 10/2023-12/2023: Researcher
