@@ -123,14 +123,6 @@ Honors & Awards
 * International Student Award Scholarship, issued by California State Polytechnic University, Pomona
 * The distinction of being included on the Dean's Honor List in 2019, 2020, 2021, 2022; President's Honor List in 2020 and 2021, issued by California State Polytechnic University, Pomona
 
-Certifications
-======
-* Udemy
-  * 100 Days of Code: The Complete Python Pro Bootcamp for 2023 [[View](/images/Udemy_100_Days_Python.pdf)]
-  * ARM Cortex-M7 STM32F7 Bare-Metal Programming [[View](/images/Baremetal.pdf)]
-  * C Programming For Beginners - Master the C Language [[View](/images/C_Programming.pdf)]
-  * Self Driving and ROS - Odometry & Control [[View](/images/ROS_Self-driving.pdf)]
-
 Organizations
 ======
 * ROAHM Lab [[View](https://www.roahmlab.com/)]
