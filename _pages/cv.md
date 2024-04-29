@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Download latest version, updated Apr 26, 2024](/files/TungDo_CurriculumVitae.pdf)]
+[[Download latest version, updated Apr 29, 2024](/files/TungDo_CurriculumVitae.pdf)]
 
 Education
 ======
@@ -30,7 +30,7 @@ Academic Research Experience
   * Supervisors: [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal), [Prof. Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
 * 6/2023-Present: Researcher
-  * Hexapod Robot for Multi-Terrain Exploration [[Portfolio](https://sontung1010.github.io/portfolio/2024-02-05-portfolio/)][[Github]()][[Publication]()]
+  * Hexapod Robot for Multi-Terrain Exploration [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-20-portfolio/)][[Github]()][[Publication]()]
 
 * 2/2024-4/2024: Researcher
   * Enhancing Vision based SLAM through Shadow Removal Processing [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-19-portfolio/)][[Github](https://github.com/dyingplant/mobrob11)][[Publication](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing)]
@@ -40,8 +40,8 @@ Academic Research Experience
   * Monocular 3D Object Detection [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-12-portfolio/)][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)][[Publication](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
   * Advisor: [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/)
 
-* 1/2023-4/2023: Researcher
-  * FPGA Toolchain for MacOS [[Portfolio](https://sontung1010.github.io/portfolio/2023-04-16-portfolio/)][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)]
+<!-- * 1/2023-4/2023: Researcher
+  * FPGA Toolchain for MacOS [[Portfolio](https://sontung1010.github.io/portfolio/2023-04-16-portfolio/)][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)] -->
 
 * 1/2022-12/2022: Researcher
   * Autonomous/Remote Control Mecanum Wheel Tesla Roadster in real-world [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-18-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
@@ -53,16 +53,16 @@ Professional Experience
 * 8/2022-5/2023: Embedded Software Engineer
   * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project [[Portfolio](https://sontung1010.github.io/portfolio/2023-05-29-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
 
-* 5/2022-8/2022: Embedded Software Developer Intern 
+<!-- * 5/2022-8/2022: Embedded Software Developer Intern 
   * FPT USA Corp. [[Github](https://github.com/sontung1010/FPT_USA_Intern_Roku_Development)]
 
 * 5/2021-7/2021: Software Development Intern
   * Rakuna [[Github](https://github.com/sontung1010/Rakuna_Intern_Web_Development)]
 
 * 9/2020-1/2021: Teaching Assistant
-  * Prestige English Center 
+  * Prestige English Center  -->
 
-Projects
+<!-- Projects
 ======
 * 8/2023-12/2023: Embedded Software Engineer
   * Advanced Driver Assistance Systems (ADAS) Simulation [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-11-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
@@ -73,7 +73,7 @@ Projects
 * Personal Project in progress: 
   * Robotics Hand [[Portfolio](https://sontung1010.github.io/portfolio/2023-06-01-portfolio/)][[Github]()]
   * .vim setup [[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
-  * This whole Portfolio website and special thanks to Minimal Mistakes
+  * This whole Portfolio website and special thanks to Minimal Mistakes -->
 
 <!-- * 10/2022: Project Owner
   * Iron Man Helmet [[Portfolio](https://sontung1010.github.io/portfolio/2022-10-10-portfolio/)] -->
