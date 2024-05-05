@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-[[Download latest version, updated Apr 29, 2024](/files/TungDo_CurriculumVitae.pdf)]
+[[Download latest version, updated May 5, 2024](/files/TungDo_CurriculumVitae.pdf)]
 
 Education
 ======
 * M.Sc. in Electrical and Computer Engineering - Robotics, University of Michigan, Ann Arbor, 2025 (expected)
-  * GPA: 4.0/4.0
+  * GPA: 3.9/4.0
   * Relevant Coursework: Embedded Control Systems, Self-Driving Cars, Computer Vision, Mobile Robotics, Math for Robotics
 
 * B.Sc. in Electromechanical Systems Engineering Technology, California State Polytechnic University - Pomona, 2023 [[View](/images/eDiploma_official_.pdf)]
