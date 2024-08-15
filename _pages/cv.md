@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Download latest version, updated May 5, 2024](/files/TungDo_CurriculumVitae.pdf)]
+[[Download latest version, updated Aug 15, 2024](/files/TungDo_CurriculumVitae.pdf)]
 
 Education
 ======
@@ -50,6 +50,9 @@ Academic Research Experience
 
 Professional Experience
 ======
+* 6/2024-8/2024: Advanced Mobility Tech Engineering Intern
+  * PACCAR - Peterbilt Motors Company [[Portfolio]()]
+
 * 8/2022-5/2023: Embedded Software Engineer
   * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project [[Portfolio](https://sontung1010.github.io/portfolio/2023-05-29-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
 
