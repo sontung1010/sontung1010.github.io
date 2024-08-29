@@ -1,0 +1,74 @@
+---
+title: "Advanced Driver Assistant Systems (ADAS) Simulation"
+excerpt: "<b>Skills:</b> C, MATLAB, Simulink, Microcontroller, GPIO, ADC, PWM, ISR, CAN<br/><img src='/images/ADAS.png'>"
+collection: portfolio
+---
+<div>
+    <p>
+        <img src="/images/nxp.JPG">
+    </p>
+</div>
+
+
+<div>
+    <p>
+        <b>Brief:</b> This project's goal is to create a Simulink model of a vehicle with Adaptive Cruise Control (ACC). ACC adjusts the vehicle's speed based on traffic conditions, maintaining a safe distance from the car ahead. The model includes a steering mechanism controlled by a haptic wheel and switches between manual and ACC modes. The ACC system uses inputs from a CAN bus, which communicates with up to six simulated vehicles, to control speed and maintain a safe gap. Additionally, the project involves developing an automatic steering controller using PID control, aimed at guiding the vehicle along the road with minimal error and maintaining stability at various speeds. The challenge is to balance the ACC and steering systems' responsiveness and stability.
+    </p>
+</div>
+
+
+<div>
+    <p>
+        <b>Role:</b> Embedded Software Engineer<br>
+    </p>
+</div>
+
+
+<div>
+    <p>
+        <b>Result</b><br>
+        - I developed Embedded C code, block diagram, and S-function for implementing Manual Control, Adaptive Cruise Control, and Auto-Steering on the NXP S32 board. This setup controls car simulation in Simulink using a haptic wheel connected to an encoder DC motor.<br>
+        - I developed embedded C code that enables communication with other car simulations via the CAN network. This allows for the mutual transmission of each car’s position to be displayed on the screen.<br>
+        
+    </p>
+</div>
+
+<div>
+    <iframe width="420" height="315"
+    src="https://youtube.com/embed/cird7a_fZxo" 
+    title="ADAS Simulation"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+    </iframe>
+    <center>
+        Manual Control test
+    </center>
+</div>
+<br>
+<div>
+    <p>
+        - The Adaptive Cruise Control (ACC) system uses the ChooseFront_Outputs_wrapper function to select the lead car from six others based on relative distance and speed. This function takes distances and speeds as inputs and outputs the lead car's distance and speed. Initially, the ACC system had a malfunction causing reverse driving upon activation, which was resolved by completely rebuilding the ACC logic from scratch, leading to proper functioning.<br>
+        - The automatic steering system, comprising two PD control loops for wheel and road position, initially calculated theoretical gains for both loops. During lab testing, these gains, particularly the derivative ones, were adjusted to ensure accurate road following. However, stability issues arose with the car oscillating off the road. This problem was solved by modifying the gains, notably increasing the outer derivative gain, to achieve stable and accurate road tracking.
+    </p>
+    <iframe width="420" height="315"
+    src="https://youtube.com/embed/mkAzI7Z9w4U?si=Huq-hazSxKd1uG2i" 
+    title="ADAS Simulation"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+    </iframe>
+    <center>
+        Adaptive Cruise Control and Auto Steering test
+    </center>
+</div>
+<br>
+
+
+<div>
+    <p>
+        [<a href="https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems" target="_blank">GitHub</a>] 
+    </p>
+    <p>
+        <b>Skills:</b> C, MATLAB, Simulink, Microcontroller, GPIO, ADC, PWM, ISR, CAN<br>
+        <b>Contributors' Acknowledgement:</b> Prof. James Freudenberg, Adam Lake, Cody Dempster
+    </p>
+</div>
