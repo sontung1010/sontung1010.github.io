@@ -75,8 +75,10 @@ Projects
 
 * Personal Project in progress: 
   * Robotics Hand [[Portfolio](https://sontung1010.github.io/portfolio/2023-06-01-portfolio/)][[Github]()]
-  <!-- * .vim setup [[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
-  * This whole Portfolio website and special thanks to Minimal Mistakes -->
+
+
+<!-- * .vim setup [[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
+* This whole Portfolio website and special thanks to Minimal Mistakes -->
 
 <!-- * 10/2022: Project Owner
   * Iron Man Helmet [[Portfolio](https://sontung1010.github.io/portfolio/2022-10-10-portfolio/)] -->
