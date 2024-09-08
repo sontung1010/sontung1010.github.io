@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-[[Download latest version, updated Aug 17, 2024](/files/TungDo_CurriculumVitae.pdf)]
+[[Download latest version, updated Sep 8, 2024](/files/TungDo_CurriculumVitae.pdf)]
 
 Education
 ======
 * M.Sc. in Electrical and Computer Engineering - Robotics, University of Michigan, Ann Arbor, 2025 (expected)
   * GPA: 3.9/4.0
-  * Relevant Coursework: Embedded Control Systems, Self-Driving Cars, Computer Vision, Mobile Robotics, Math for Robotics
+  * Relevant Coursework: Embedded Control Systems, Self-Driving Cars, Computer Vision, Mobile Robotics, Math for Robotics, Machine Learning
 
 * B.Sc. in Electromechanical Systems Engineering Technology, California State Polytechnic University - Pomona, 2023 [[View](/images/eDiploma_official_.pdf)]
   * Valedictorian, Magna cum laude
@@ -51,7 +51,7 @@ Academic Research Experience
 Professional Experience
 ======
 * 6/2024-8/2024: Advanced Mobility Tech Engineering Intern
-  * PACCAR - Peterbilt Motors Company [[Portfolio]()]
+  * PACCAR - Peterbilt Motors Company [[Portfolio](https://sontung1010.github.io/portfolio/2024-08-20-portfolio/)]
 
 * 8/2022-5/2023: Embedded Software Engineer
   * Unmanned Aerial & Ground Vehicle (UAV & UGV) for Northrop Grumman Collaboration Project [[Portfolio](https://sontung1010.github.io/portfolio/2023-05-29-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
@@ -65,7 +65,7 @@ Professional Experience
 * 9/2020-1/2021: Teaching Assistant
   * Prestige English Center  -->
 
-<!-- Projects
+Projects
 ======
 * 8/2023-12/2023: Embedded Software Engineer
   * Advanced Driver Assistance Systems (ADAS) Simulation [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-11-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
@@ -75,7 +75,7 @@ Professional Experience
 
 * Personal Project in progress: 
   * Robotics Hand [[Portfolio](https://sontung1010.github.io/portfolio/2023-06-01-portfolio/)][[Github]()]
-  * .vim setup [[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
+  <!-- * .vim setup [[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
   * This whole Portfolio website and special thanks to Minimal Mistakes -->
 
 <!-- * 10/2022: Project Owner
@@ -93,14 +93,14 @@ Skills
 ======
 * Robotics: ROS, ROS2, Simulation (Rviz, Gazebo), Sensor Integration (LIDAR, Camera, IMU), SLAM, Machine Learning (PyTorch, TensorFlow), Control Systems (PID, MATLAB, Simulink), Computer Vision (OpenCV)
 * Software: Python, C++, C, Linux, Bash/Shell Scripting, Git, Debugger, Docker
-* Hardware: Microcontroller, ARM, GPIO, ADC, PWM, Timer, ISR, RTOS, CAN, I2C, SPI, USART, USB
-* Mechanical: SolidWorks, 3D Printing, ANSYS FEA
+* Hardware: Microcontroller (STM32, Arduino PLC), GPIO, ADC, PWM, Timer, ISR, RTOS, CAN, I2C, SPI, USART
+* Mechanical: Creo Parametric, SolidWorks, 3D Printing, ANSYS FEA
 
 Publications
 ======
-* (Unofficial) Enhancing Vision based SLAM through Shadow Removal Processing [[View](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing)]
-* (Unofficial) Enhancing Monocular 3D Object Detection in Foggy Conditions - An Adapted MonoCon Approach for Autonomous Vehicles [[View](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
-* (Unofficial) Autonomous/Remote Control Mecanum Wheels Tesla Roadster in real-world [[View](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
+* Enhancing Vision based SLAM through Shadow Removal Processing (Unofficial) [[View](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing)]
+* Enhancing Monocular 3D Object Detection in Foggy Conditions - An Adapted MonoCon Approach for Autonomous Vehicles (Unofficial) [[View](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
+* Autonomous/Remote Control Mecanum Wheels Tesla Roadster in real-world (Unofficial) [[View](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
 
   
 <!-- Talks
@@ -122,9 +122,9 @@ Service and leadership
 Honors & Awards
 ======
 
-* Valedictorian of the Electromechanical Systems Engineering Technology program for the 2022-23 graduating class, issued by California State Polytechnic University, Pomona [[View](https://sontung1010.github.io/posts/2023/04/14/blog-post-1/)]
-* International Student Award Scholarship, issued by California State Polytechnic University, Pomona
-* The distinction of being included on the Dean's Honor List in 2019, 2020, 2021, 2022; President's Honor List in 2020 and 2021, issued by California State Polytechnic University, Pomona
+* Valedictorian: Electromechanical Systems Engineering Technology, California State Polytechnic University, Pomona (2023) [[View](https://sontung1010.github.io/posts/2023/04/14/blog-post-1/)]
+* International Student Award Scholarship: California State Polytechnic University, Pomona
+* Dean’s Honor List: 2019, 2020, 2021, 2022; President’s Honor List: 2020, 2021
 
 Organizations
 ======
@@ -133,5 +133,4 @@ Organizations
 * Tau Beta Pi - The Engineering Honor Society (TBP) [[View](https://sontung1010.github.io/posts/2022/05/10/blog-post-1/)]
 * Eta Kappa Nu - International Honor Society of Electrical and Electronics Engineers (IEEE-HKN)
 * Institute of Electrical and Electronics Engineers (IEEE)
-* Northrop Grumman Collaboration Project [[View](https://www.linkedin.com/company/northrop-grumman-collaboration-project/)]
 
