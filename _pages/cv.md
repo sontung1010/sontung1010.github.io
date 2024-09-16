@@ -51,9 +51,9 @@ Academic Research Experience
 Publications
 ======
 *	Shrestha, E., Wan, H., Do, T., Rawal, M., Singh, S., & Vasudevan, R. (2024). Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing. Submitted to IEEE International Conference on Robotics and Automation (ICRA).
-*	Wan, H., Kusumadjaja, K., Lee, S.H., & Do, T. (2024). Enhancing Vision-based SLAM through Shadow Removal Preprocessing. Unpublished manuscript, University of Michigan, Ann Arbor.
-*	Do, T., Liu, X., & Swayampakula, R. (2023). Enhancing Monocular 3D Object Detection in Foggy Conditions: An Adapted MonoCon Approach for Autonomous Vehicles. Unpublished manuscript, University of Michigan, Ann Arbor.
-*	Do, T. (2023). Autonomous/Remote Control Mecanum Wheels Tesla Roadster. Unpublished manuscript, California State Polytechnic University, Pomona.
+*	[Wan, H., Kusumadjaja, K., Lee, S.H., & Do, T. (2024). Enhancing Vision-based SLAM through Shadow Removal Preprocessing.](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing) Unpublished manuscript, University of Michigan, Ann Arbor.
+*	[Do, T., Liu, X., & Swayampakula, R. (2023). Enhancing Monocular 3D Object Detection in Foggy Conditions: An Adapted MonoCon Approach for Autonomous Vehicles.](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions) Unpublished manuscript, University of Michigan, Ann Arbor.
+*	[Do, T. (2023). Autonomous/Remote Control Mecanum Wheels Tesla Roadster.](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster) Unpublished manuscript, California State Polytechnic University, Pomona.
 
 
 Professional Experience
