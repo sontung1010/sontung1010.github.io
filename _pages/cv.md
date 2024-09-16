@@ -48,6 +48,14 @@ Academic Research Experience
   * Advisor: [Prof. Scott Boskovich](https://www.linkedin.com/in/scott-boskovich-phd-aa55b91/)
 
 
+Publications
+======
+*	Shrestha, E., Wan, H., Do, T., Rawal, M., Singh, S., & Vasudevan, R. (2024). Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing. Submitted to IEEE International Conference on Robotics and Automation (ICRA).
+*	Wan, H., Kusumadjaja, K., Lee, S.H., & Do, T. (2024). Enhancing Vision-based SLAM through Shadow Removal Preprocessing. Unpublished manuscript, University of Michigan, Ann Arbor.
+*	Do, T., Liu, X., & Swayampakula, R. (2023). Enhancing Monocular 3D Object Detection in Foggy Conditions: An Adapted MonoCon Approach for Autonomous Vehicles. Unpublished manuscript, University of Michigan, Ann Arbor.
+*	Do, T. (2023). Autonomous/Remote Control Mecanum Wheels Tesla Roadster. Unpublished manuscript, California State Polytechnic University, Pomona.
+
+
 Professional Experience
 ======
 * 6/2024-8/2024: Advanced Mobility Tech Engineering Intern
@@ -98,11 +106,6 @@ Skills
 * Hardware: Microcontroller (STM32, Arduino PLC), GPIO, ADC, PWM, Timer, ISR, RTOS, CAN, I2C, SPI, USART
 * Mechanical: Creo Parametric, SolidWorks, 3D Printing, ANSYS FEA
 
-Publications
-======
-* Enhancing Vision based SLAM through Shadow Removal Processing (Unofficial) [[View](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing)]
-* Enhancing Monocular 3D Object Detection in Foggy Conditions - An Adapted MonoCon Approach for Autonomous Vehicles (Unofficial) [[View](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
-* Autonomous/Remote Control Mecanum Wheels Tesla Roadster in real-world (Unofficial) [[View](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
 
   
 <!-- Talks
