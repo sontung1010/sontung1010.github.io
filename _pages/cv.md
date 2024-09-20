@@ -24,10 +24,16 @@ Education
 
 Academic Research Experience
 ======
-* 8/2023-Present: Research Assistant
-  * Multimodal Perception & Reinforcement Learning for UxV Guidance & Control Research with [ROAHM Lab](https://www.roahmlab.com/) and [UM Field Robotics Group](https://fieldrobotics.engin.umich.edu/team)
+* 12/2023-Present: Research Assistant
+  * Intelligent Navigation of Autonomous Maritime Robots with [UM Field Robotics Group](https://fieldrobotics.engin.umich.edu/team)
   [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
-  * Supervisors: [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal), [Prof. Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
+  * Supervisors: [Prof. Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
+
+
+* 8/2023-Present: Research Assistant
+  * Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing with [ROAHM Lab](https://www.roahmlab.com/)
+  [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
+  * Supervisors: [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
 * 6/2023-Present: Researcher
   * Hexapod Robot for Multi-Terrain Exploration [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-20-portfolio/)][[Github]()][[Publication]()]
