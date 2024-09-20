@@ -1,0 +1,79 @@
+---
+title: "Intelligent Navigation of Autonomous Maritime Robots (Work in Progress)"
+excerpt: "<b>Skills:</b> ROS, ROS2, Simulation (Rviz, Gazebo), Sensor Integration (LIDAR, Camera, IMU), Machine Learning (PyTorch, TensorFlow), SLAM, Control Systems (PID), Computer Vision (OpenCV), Python, C++, Linux, Bash/Shell Scripting, Git, Debugger, Microcontroller, PWM, SolidWorks<br/><img src='/images/UxV/MBRL_.png'>"
+collection: portfolio
+---
+
+
+<div>
+    <b>Supervisors:</b> <a href="https://fieldrobotics.engin.umich.edu/team" target="_blank">Prof. Katherine A. Skinner</a> and <a href="https://www.linkedin.com/in/elena-shrestha/" target="_blank">Dr. Elena Shrestha</a>
+</div>
+<br><br><br>
+
+
+<div>
+    <p>
+        <b>Brief:</b> While reinforcement learning offers potential for continual learning and adaptability in complex scenarios, its application to real-world robotics faces significant challenges. Unlike in simulations, physical platforms struggle to collect a diverse corpus of training data due to critical safety risks and the inherent constraints of operating within a dynamic and partially observable environment. Our work draws inspiration from the human capability to fuse and exploit multiple sensing modalities, construct comprehensive models of how the world operates, and then leverage those models to adeptly navigate in challenging and often unpredictable environments. Here is an overview of how unmanned vehicles (ground, air, and surface) can exploit a world model constructed through multimodal perception, to learn near-optimal policies for guidance and control. A key aspect of the approach is learning from imagination in which the world model is used to simulate future imagined trajectories, enabling it to anticipate potential risks before encountering them in the real world. Our ongoing work and long-term vision is to evolve the traditional sense-plan-act framework into a more intuitive and cognitively inspired sense-imagine-act model. <a href="https://www.youtube.com/watch?v=Orte6Uv_mGU&t=987s" target="_blank">Dr. Elena Shrestha's presentation of our research.</a>
+
+    </p>
+</div>
+
+
+<div>
+    <p>
+        <b>Role:</b> Research Assistant<br>
+    </p>
+</div>
+
+
+<div>
+    <p>
+        <b>Contribution:</b><br>
+    </p>
+</div>
+
+<div>
+    <p>
+        - Programmed the Unified Robot Description Format (URDF) model for the Unmanned Surface Vehicle (USV) and created the "world" model for the University of Michigan’s Marine Hydrodynamics Lab using ROS2 and Gazebo Garden. This setup enabled the testing of autonomous functions and facilitated reinforcement learning research.<br>
+        - Developed and implemented an object avoidance algorithm using Python and C++ and evaluated its performance in both real-world and simulated environments to refine tuning parameters for improved simulations.<br>
+        - Conducted real-world tests to gather LIDAR, odometry, drive, velocity, and IMU data. Replicated the collected data in the simulation environment and currently focusing on analyzing and post-processing the data using Python.<br>
+        - Fused the laser/scan frame with the odometry/filtered transform frame to compensate for the absence of the /tf topic in every run. Ensured accurate transformation between base_link, velodyne_base_link, and velodyne frames with correct timestamps. This was critical for using the hector_slam package to run SLAM in RViz for analyzing the trajectories.<br>
+        - Extracted data and plotted the autonomous trajectories of all tests in the LIDAR scans. Evaluated the vehicle’s ability to maintain a straight line in “straightline” tests and navigate through obstacles in “2 buoys” tests under different wave conditions.<br>
+
+    </p>
+</div>
+<div>
+    <iframe width="420" height="315"
+    src="https://youtube.com/embed/gSU9hapYx8s" 
+    title="Heron"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+    </iframe>
+    <center>
+        Simulation: Autonomous Object Avoidance
+    </center>
+</div>
+<br>
+<div>
+    <iframe width="420" height="315"
+    src="https://youtube.com/embed/Aa0qp4Q8fms" 
+    title="Heron"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+    </iframe>
+    <center>
+        Real-world test: Autonomous Object Avoidance
+    </center>
+</div>
+<br>
+
+
+<div>
+    <p>
+        [<a href="" target="_blank">GitHub</a>][<a href="" target="_blank">Publication</a>] 
+    </p>
+    <p>
+        <b>Skills:</b> ROS, ROS2, Simulation (Rviz, Gazebo), Sensor Integration (LIDAR, Camera, IMU), SLAM, Machine Learning (PyTorch, TensorFlow), Control Systems (PID), Computer Vision (OpenCV), Python, C++, Linux, Bash/Shell Scripting, Git, Debugger, Microcontroller, PWM, SolidWorks<br>
+        <b>Contributors' Acknowledgement:</b>
+    </p>
+</div>
