@@ -24,14 +24,14 @@ Education
 
 Academic Research Experience
 ======
-* 12/2023-Present: Research Assistant
-  * Intelligent Navigation of Autonomous Maritime Robots with [UM Field Robotics Group](https://fieldrobotics.engin.umich.edu/team)
+* 12/2023-Present: Research Assistant, [**UM Field Robotics Group**](https://fieldrobotics.engin.umich.edu/team)
+  * Intelligent Navigation of Autonomous Maritime Robots
   [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
   * Supervisors: [Prof. Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
 
-* 8/2023-Present: Research Assistant
-  * Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing with [ROAHM Lab](https://www.roahmlab.com/)
+* 8/2023-Present: Research Assistant, [**Robotics & Optimization for Analysis of Human Motion (ROAHM) Lab**](https://www.roahmlab.com/)
+  * Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing
   [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
   * Supervisors: [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
