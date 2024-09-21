@@ -9,21 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-[[Download latest version, updated Sep 20, 2024](/files/TungDo_CurriculumVitae.pdf)]
+[[***Download latest version, updated Sep 20, 2024***](/files/TungDo_CurriculumVitae.pdf)]
 
 Education
 ======
-* M.Sc. in Electrical and Computer Engineering - Robotics, University of Michigan, Ann Arbor, 2025 (expected)
+* **M.Sc. in Electrical and Computer Engineering, emphasis in Robotics**, University of Michigan, Ann Arbor, 2025 (expected)
   * GPA: 3.9/4.0
   * Relevant Coursework: Embedded Control Systems, Self-Driving Cars, Computer Vision, Mobile Robotics, Math for Robotics, Machine Learning
 
-* B.Sc. in Electromechanical Systems Engineering Technology, California State Polytechnic University - Pomona, 2023 [[View](/images/eDiploma_official_.pdf)]
+* **B.Sc. in Electromechanical Systems Engineering Technology**, California State Polytechnic University - Pomona, 2023 [[View](/images/eDiploma_official_.pdf)]
   * Valedictorian, Magna cum laude
   * Relevant Coursework: C/C++, Robotics, Autonomous Vehicle, Feedback Control Systems, Digital Design FPGA, Engineering Graphics
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Academic Research Experience
 ======
+**University of Michigan, Ann Arbor**, MI, USA
 * 12/2023-Present: Research Assistant, [**UM Field Robotics Group**](https://fieldrobotics.engin.umich.edu/team)
   * Intelligent Navigation of Autonomous Maritime Robots
   [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
@@ -56,7 +57,7 @@ Academic Research Experience
 
 Publications
 ======
-*	Shrestha, E., Wan, H., Do, T., Rawal, M., Singh, S., & Vasudevan, R. (2024). *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing.* Submitted to IEEE International Conference on Robotics and Automation (ICRA).
+*	Shrestha, E., Wan, H., Do, T., Rawal, M., Singh, S., & Vasudevan, R. (2024). *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing.* Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2025.
 *	[Wan, H., Kusumadjaja, K., Lee, S.H., & Do, T. (2024). *Enhancing Vision-based SLAM through Shadow Removal Preprocessing.*](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing) Unpublished manuscript, University of Michigan, Ann Arbor.
 *	[Do, T., Liu, X., & Swayampakula, R. (2023). *Enhancing Monocular 3D Object Detection in Foggy Conditions: An Adapted MonoCon Approach for Autonomous Vehicles.*](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions) Unpublished manuscript, University of Michigan, Ann Arbor.
 *	[Do, T. (2023). *Autonomous/Remote Control Mecanum Wheels Tesla Roadster.*](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster) Unpublished manuscript, California State Polytechnic University, Pomona.
