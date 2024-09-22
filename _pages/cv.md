@@ -13,11 +13,11 @@ redirect_from:
 
 Education
 ======
-* **M.Sc. in Electrical and Computer Engineering, emphasis in Robotics**, University of Michigan, Ann Arbor, 2025 (expected)
+* **M.Sc. in Electrical and Computer Engineering, emphasis in Robotics**, University of Michigan, Ann Arbor, Aug 2023 - May 2025 (expected)
   * GPA: 3.9/4.0
   * Relevant Coursework: Embedded Control Systems, Self-Driving Cars, Computer Vision, Mobile Robotics, Math for Robotics, Machine Learning
 
-* **B.Sc. in Electromechanical Systems Engineering Technology**, California State Polytechnic University - Pomona, 2023 [[View](/images/eDiploma_official_.pdf)]
+* **B.Sc. in Electromechanical Systems Engineering Technology**, California State Polytechnic University - Pomona, Aug 2018 - May 2023 [[View](/images/eDiploma_official_.pdf)]
   * Valedictorian, Magna cum laude
   * Relevant Coursework: C/C++, Robotics, Autonomous Vehicle, Feedback Control Systems, Digital Design FPGA, Engineering Graphics
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
@@ -25,27 +25,27 @@ Education
 Academic Research Experience
 ======
 **University of Michigan, Ann Arbor**, MI, USA
-* 12/2023-Present: Research Assistant, [**Field Robotics Group**](https://fieldrobotics.engin.umich.edu/team)
+* Dec 2023 - Present: Research Assistant, [**Field Robotics Group**](https://fieldrobotics.engin.umich.edu/team)
   * *Intelligent Navigation of Autonomous Maritime Robots*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
   * Supervisors: [Prof. Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
 
-* 8/2023-Present: Research Assistant, [**Robotics & Optimization for Analysis of Human Motion (ROAHM) Lab**](https://www.roahmlab.com/)
+* Aug 2023 - Present: Research Assistant, [**Robotics & Optimization for Analysis of Human Motion (ROAHM) Lab**](https://www.roahmlab.com/)
   * *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
   * Supervisors: [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
-* 6/2023-Present: Researcher
+* Jun 2023 - Present: Researcher
   * Hexapod Robot for Multi-Terrain Exploration 
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-20-portfolio/)][[Github]()][[Publication]()]
 
-* 2/2024-4/2024: Researcher
+* Feb 2024 - Apr 2024: Researcher
   * *Enhancing Vision-based SLAM through Shadow Removal Processing* 
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-19-portfolio/)][[Github](https://github.com/dyingplant/mobrob11)][[Publication](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing)]
   * Advisor: [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/)
 
-* 10/2023-12/2023: Researcher
+* Oct 2023 - Dec 2023: Researcher
   * *Enhancing Monocular 3D Object Detection in Foggy Condition: An Adapted MonoCon Approach for Autonomous Vehicles* 
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-12-portfolio/)][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)][[Publication](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
   * Advisor: [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/)
@@ -54,7 +54,7 @@ Academic Research Experience
   * FPGA Toolchain for MacOS [[Portfolio](https://sontung1010.github.io/portfolio/2023-04-16-portfolio/)][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)] -->
 
 **California State Polytechnic University, Pomona**, CA, USA
-* 1/2022-12/2022: Researcher
+* Jan 2022 - Dec 2022: Researcher
   * *Autonomous/Remote Control Mecanum Wheel Tesla Roadster in real-world*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-18-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
   * Advisor: [Prof. Scott Boskovich](https://www.linkedin.com/in/scott-boskovich-phd-aa55b91/)
@@ -70,11 +70,11 @@ Publications
 
 Professional Experience
 ======
-* 6/2024-8/2024: Advanced Mobility Tech Engineering Intern
+* Jun 2024 - Aug 2024: Advanced Mobility Tech Engineering Intern
   * **PACCAR - Peterbilt Motors Company**, PACCAR Innovation Center, Sunnyvale, CA, USA
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-08-20-portfolio/)]
 
-* 8/2022-5/2023: Embedded Software Engineer, *Unmanned Aerial & Ground Vehicle (UAV & UGV)*
+* Aug 2022 - May 2023: Embedded Software Engineer, *Unmanned Aerial & Ground Vehicle (UAV & UGV)*
   * **Northrop Grumman Collaboration Project**, California State Polytechnic University, Pomona, CA, USA
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-05-29-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
 
@@ -89,11 +89,11 @@ Professional Experience
 
 Projects
 ======
-* 8/2023-12/2023: Embedded Software Engineer
+* Aug 2023 - Dec 2023: Embedded Software Engineer
   * **Advanced Driver Assistance Systems (ADAS) Simulation**, University of Michigan, Ann Arbor, MI, USA
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-11-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
 
-* 8/2022-12/2022: Lead Engineer
+* Aug 2022 - Dec 2022: Lead Engineer
   * **Autonomous Robot Competition**, California State Polytechnic University, Pomona, CA, USA
   * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
 
