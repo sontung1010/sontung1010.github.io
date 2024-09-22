@@ -70,12 +70,12 @@ Publications
 
 Professional Experience
 ======
-**PACCAR - Peterbilt Motors Company**, PACCAR Innovation Center, Sunnyvale, CA, USA
 * 6/2024-8/2024: Advanced Mobility Tech Engineering Intern
+  * **PACCAR - Peterbilt Motors Company**, PACCAR Innovation Center, Sunnyvale, CA, USA
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-08-20-portfolio/)]
 
-**Northrop Grumman Collaboration Project**, California State Polytechnic University, Pomona, CA, USA
 * 8/2022-5/2023: Embedded Software Engineer, *Unmanned Aerial & Ground Vehicle (UAV & UGV)*
+  * **Northrop Grumman Collaboration Project**, California State Polytechnic University, Pomona, CA, USA
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-05-29-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
 
 <!-- * 5/2022-8/2022: Embedded Software Developer Intern 
@@ -89,12 +89,12 @@ Professional Experience
 
 Projects
 ======
-**Advanced Driver Assistance Systems (ADAS) Simulation**, University of Michigan, Ann Arbor, MI, USA
 * 8/2023-12/2023: Embedded Software Engineer
+  * **Advanced Driver Assistance Systems (ADAS) Simulation**, University of Michigan, Ann Arbor, MI, USA
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-11-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
 
-**Autonomous Robot Competition**, California State Polytechnic University, Pomona, CA, USA
 * 8/2022-12/2022: Lead Engineer
+  * **Autonomous Robot Competition**, California State Polytechnic University, Pomona, CA, USA
   * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
 
 * Personal Project in progress: 
