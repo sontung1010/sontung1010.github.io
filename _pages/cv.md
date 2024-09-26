@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[***Download latest version, updated Sep 21, 2024***](/files/TungDo_CurriculumVitae.pdf)]
+[[***Download latest version, updated Sep 25, 2024***](/files/TungDo_CurriculumVitae.pdf)]
 
 Education
 ======
@@ -25,27 +25,27 @@ Education
 Academic Research Experience
 ======
 **University of Michigan, Ann Arbor**, MI, USA
-* Dec 2023 - Present: Research Assistant, [**Field Robotics Group**](https://fieldrobotics.engin.umich.edu/team)
+* Dec 2023 - Present: Graduate Research Assistant, [**Field Robotics Group**](https://fieldrobotics.engin.umich.edu/team)
   * *Intelligent Navigation of Autonomous Maritime Robots*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
   * Supervisors: [Prof. Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
 
-* Aug 2023 - Present: Research Assistant, [**Robotics & Optimization for Analysis of Human Motion (ROAHM) Lab**](https://www.roahmlab.com/)
+* Aug 2023 - Present: Graduate Research Assistant, [**Robotics & Optimization for Analysis of Human Motion (ROAHM) Lab**](https://www.roahmlab.com/)
   * *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
   * Supervisors: [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
-* Jun 2023 - Present: Researcher
+* Jun 2023 - Present: Robotics Researcher
   * Hexapod Robot for Multi-Terrain Exploration 
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-20-portfolio/)][[Github]()][[Publication]()]
 
-* Feb 2024 - Apr 2024: Researcher
+* Feb 2024 - Apr 2024: Robotics Researcher
   * *Enhancing Vision-based SLAM through Shadow Removal Processing* 
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-19-portfolio/)][[Github](https://github.com/dyingplant/mobrob11)][[Publication](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing)]
   * Advisor: [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/)
 
-* Oct 2023 - Dec 2023: Researcher
+* Oct 2023 - Dec 2023: Robotics Researcher
   * *Enhancing Monocular 3D Object Detection in Foggy Condition: An Adapted MonoCon Approach for Autonomous Vehicles* 
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-12-portfolio/)][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)][[Publication](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
   * Advisor: [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/)
@@ -54,7 +54,7 @@ Academic Research Experience
   * FPGA Toolchain for MacOS [[Portfolio](https://sontung1010.github.io/portfolio/2023-04-16-portfolio/)][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)] -->
 
 **California State Polytechnic University, Pomona**, CA, USA
-* Jan 2022 - Dec 2022: Researcher
+* Jan 2022 - Dec 2022: Robotics Researcher
   * *Autonomous/Remote Control Mecanum Wheel Tesla Roadster in real-world*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-18-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
   * Advisor: [Prof. Scott Boskovich](https://www.linkedin.com/in/scott-boskovich-phd-aa55b91/)
@@ -93,7 +93,7 @@ Projects
   * **Advanced Driver Assistance Systems (ADAS) Simulation**, University of Michigan, Ann Arbor, MI, USA
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-11-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
 
-* Aug 2022 - Dec 2022: Lead Engineer
+* Aug 2022 - Dec 2022: Robotics Engineer
   * **Autonomous Robot Competition**, California State Polytechnic University, Pomona, CA, USA
   * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
 
