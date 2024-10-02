@@ -9,17 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-[[***Download latest version, updated Sep 25, 2024***](/files/TungDo_CurriculumVitae.pdf)]
+[[***Download latest version, updated Oct 2, 2024***](/files/TungDo_CurriculumVitae.pdf)]
 
 Education
 ======
 * **M.Sc. in Electrical and Computer Engineering, emphasis in Robotics**, University of Michigan, Ann Arbor, Aug 2023 - May 2025 (expected)
+  * Publication: *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing*
   * GPA: 3.9/4.0
-  * Relevant Coursework: Embedded Control Systems, Self-Driving Cars, Computer Vision, Mobile Robotics, Math for Robotics, Machine Learning
+  * Supervisors: Prof. Ram Vasudevan, Prof. Katherine A. Skinner, Dr. Elena Shrestha
+  * Relevant Coursework: Embedded Control Systems, Self-Driving Cars, Mobile Robotics, Math for Robotics, Machine Learning, Computer Vision
 
 * **B.Sc. in Electromechanical Systems Engineering Technology**, California State Polytechnic University - Pomona, Aug 2018 - May 2023 [[View](/images/eDiploma_official_.pdf)]
   * Valedictorian, Magna cum laude
-  * Relevant Coursework: C/C++, Robotics, Autonomous Vehicle, Feedback Control Systems, Digital Design FPGA, Engineering Graphics
+  * Thesis: *Autonomous/Remote Control Mecanum Wheels Tesla Roadster in real-world*
+  * Advisor: Prof. Scott Boskovich
+  * Relevant Coursework: Robotics, Autonomous Vehicle, Feedback Control Systems, Machine Elements, Finite Elements, Engineering Graphics, C/C++ Programming, Digital Design FPGA/Verilog, Electronic Systems, Electrical Networks, Dynamics, Strength of Materials, Fluid Mechanics, Thermodynamics
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Academic Research Experience
@@ -98,7 +102,7 @@ Projects
   * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
 
 * Personal Project in progress: 
-  * Robotics Hand [[Portfolio](https://sontung1010.github.io/portfolio/2023-06-01-portfolio/)][[Github]()]
+  * Bionic Hand [[Portfolio](https://sontung1010.github.io/portfolio/2023-06-01-portfolio/)][[Github]()]
 
 
 <!-- * .vim setup [[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
