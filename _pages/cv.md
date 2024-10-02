@@ -102,7 +102,7 @@ Projects
   * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
 
 * Personal Project in progress: 
-  * Bionic Hand [[Portfolio](https://sontung1010.github.io/portfolio/2023-06-01-portfolio/)][[Github]()]
+  * Bionic Arm [[Portfolio](https://sontung1010.github.io/portfolio/2023-06-01-portfolio/)][[Github]()]
 
 
 <!-- * .vim setup [[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
@@ -121,10 +121,10 @@ Projects
  
 Skills
 ======
-* Robotics: ROS, ROS2, Simulation (Rviz, Gazebo), Sensor Integration (LIDAR, Camera, IMU), SLAM, Machine Learning (PyTorch, TensorFlow), Control Systems (PID, MATLAB, Simulink), Computer Vision (OpenCV)
-* Software: Python, C++, C, Linux, Bash/Shell Scripting, Git, Debugger, Docker
+* Robotics: ROS, ROS2, Simulation (Rviz, Gazebo), Sensor (LIDAR, Camera, IMU), SLAM, Machine Learning (PyTorch, TensorFlow), Computer Vision (OpenCV)
+* Mechanical: Kinematics & Dynamics, Control Systems (PID), Prototyping & Fabrication (Creo Parametric, SolidWorks, 3D printing, welding, soldering), Mechatronics Integration, ANSYS FEA
 * Hardware: Microcontroller (STM32, Arduino PLC), GPIO, ADC, PWM, Timer, ISR, RTOS, CAN, I2C, SPI, USART
-* Mechanical: Creo Parametric, SolidWorks, 3D Printing, ANSYS FEA
+* Software: Python, C++, C, Linux, Bash/Shell Scripting, Git, Debugger, Docker
 
 
   
