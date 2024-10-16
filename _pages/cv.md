@@ -99,8 +99,8 @@ Projects
   * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
 
 * Personal Project in progress: 
-  * Hexapod Robot for Multi-Terrain Exploration [[Portfolio](https://sontung1010.github.io/portfolio/2024-08-21-portfolio/)][[Github]()][[Publication]()]
-  * Bionic Arm [[Portfolio](https://sontung1010.github.io/portfolio/2023-06-01-portfolio/)][[Github]()]
+  * Hexapod Robot for Multi-Terrain Exploration [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-11-portfolio/)][[Github]()][[Publication]()]
+  * Bionic Arm [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-01-portfolio/)][[Github]()]
 
 
 <!-- * .vim setup [[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
