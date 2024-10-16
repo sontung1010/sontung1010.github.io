@@ -40,9 +40,6 @@ Academic Research Experience
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
   * Supervisors: [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
-* Jun 2023 - Present: Robotics Researcher
-  * Hexapod Robot for Multi-Terrain Exploration 
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-20-portfolio/)][[Github]()][[Publication]()]
 
 * Feb 2024 - Apr 2024: Robotics Researcher
   * *Enhancing Vision-based SLAM through Shadow Removal Processing* 
@@ -102,6 +99,7 @@ Projects
   * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
 
 * Personal Project in progress: 
+  * Hexapod Robot for Multi-Terrain Exploration [[Portfolio](https://sontung1010.github.io/portfolio/2024-08-21-portfolio/)][[Github]()][[Publication]()]
   * Bionic Arm [[Portfolio](https://sontung1010.github.io/portfolio/2023-06-01-portfolio/)][[Github]()]
 
 
