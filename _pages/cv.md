@@ -116,10 +116,10 @@ Other Experience
   * [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-01-portfolio/)][[Github]()]
 
 * Aug 2022-May 2023: CPP Northrop Grumman Collaboration Project, *Robotics Engineer*
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2023-05-29-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
+  <!-- * [[Portfolio](https://sontung1010.github.io/portfolio/2023-05-29-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)] -->
 
 * Aug 2022-Dec 2022: CPP Autonomous Robot Competition, *Lead Robotics Engineer*
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
+  <!-- * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)] -->
 
 * Aug 2022-Oct 2022: CPP NASA Student Launch 2023, *Parachute Team Lead*
 
@@ -130,7 +130,7 @@ Other Experience
 * May 2022-Aug 2022: FPT USA Corp., *Embedded Software Engineer Intern*
 
 * Jan 2022-Dec 2022: Autonomous/Remote Control Mecanum Wheel Tesla Roadster in Real-world Project, *Robotics Engineer*
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-18-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
+  <!-- * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-18-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)] -->
 
 * May 2021-Jul 2021: Rakuna - HR Tech Company, *Software Developer Intern*
 
