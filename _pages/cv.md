@@ -49,7 +49,7 @@ Research Experience
 
 * Aug 2023 - Sep 2024: Graduate Research Assistant, [**UM-Ann Arbor Robotics & Optimization for Analysis of Human Motion (ROAHM) Lab**](https://www.roahmlab.com/) with [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal)
   * Worked on *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing* as the third author
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2024-09-15-portfolio/)][[Github]()][[Publication]()]
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2024-09-15-portfolio/)][[Github]()][[Publication](https://sontung1010.github.io/publication/2024-09-15-Lucid-Dreamer-Multimodal-World-Model-for-Zero-Shot-Policy-Transfer-in-Multi-Agent-Autonomous-Racing)]
 
 
 Grad Course Projects
