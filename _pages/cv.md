@@ -92,10 +92,11 @@ Industry Experience
  
 Skills
 ======
-* Robotics: ROS, ROS2, Simulation (Rviz, Gazebo), Sensor (LIDAR, Camera, IMU), SLAM, Machine Learning (PyTorch, TensorFlow), Computer Vision (OpenCV)
-* Mechanical: Kinematics & Dynamics, Control Systems (PID), Prototyping & Fabrication (Creo Parametric, SolidWorks, 3D printing, welding, soldering), Mechatronics Integration, ANSYS FEA
-* Hardware: Microcontroller (STM32, Arduino PLC), GPIO, ADC, PWM, Timer, ISR, RTOS, CAN, I2C, SPI, USART
-* Software: Python, C++, C, Linux, Bash/Shell Scripting, Git, Debugger, Docker
+**Robotics & Autonomous Systems:** ROS, ROS2, RViz, Gazebo for simulation, SLAM (Hector SLAM, cartographer_ros), sensor fusion (Camera, LIDAR, IMU, GPS, Odometry), object avoidance algorithm, autonomous navigation
+**Machine Learning & Computer Vision:** PyTorch, TensorFlow for reinforcement learning, U-Net image segmentation, OpenCV
+**Control & Embedded Systems:** PID, Microcontrollers (STM32, Arduino PLC, NXP32), Single Board Computers (Nvidia Jetsons, Raspberry Pi), hardware interface (CAN, I2C, SPI)
+**Mechanical Design & Prototyping:** SolidWorks, Creo Parametric, 3D printing, ANSYS FEA
+**Programming & Software:** Python, C++, C, MATLAB, Linux, Bash/Shell Scripting, Git, Docker 
 
 
 Other Experience
