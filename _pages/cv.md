@@ -16,7 +16,7 @@ Education
 * **M.Sc. in Electrical and Computer Engineering, emphasis in Robotics**, University of Michigan, Ann Arbor, Aug 2023 - May 2025 (expected)
   * Publication: *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing*
   * GPA: overall 3.9/4.0
-  * Supervisors: Prof. Ram Vasudevan, Prof. Katherine A. Skinner, Dr. Elena Shrestha
+  * Supervisors: Prof. Ram Vasudevan, Prof. Katherine A. Skinner
   * Relevant Coursework: Embedded Control Systems, Self-Driving Cars, Mobile Robotics, Math for Robotics, Machine Learning, Computer Vision
 
 * **B.Sc. in Electromechanical Systems Engineering Technology**, California State Polytechnic University - Pomona, Aug 2018 - May 2023 [[View](/images/eDiploma_official_.pdf)]
@@ -28,6 +28,8 @@ Education
 Publications
 ======
 *	Shrestha, E., Wan, H., Do, T., Rawal, M., Singh, S., & Vasudevan, R. (2024). *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing.* Submitted to IEEE International Conference on Robotics and Automation (ICRA).
+
+
 <!-- *	[Wan, H., Kusumadjaja, K., Lee, S.H., & Do, T. (2024). *Enhancing Vision-based SLAM through Shadow Removal Preprocessing.*](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing) Unpublished manuscript, University of Michigan, Ann Arbor.
 *	[Do, T., Liu, X., & Swayampakula, R. (2023). *Enhancing Monocular 3D Object Detection in Foggy Conditions: An Adapted MonoCon Approach for Autonomous Vehicles.*](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions) Unpublished manuscript, University of Michigan, Ann Arbor.
 *	[Do, T. (2023). *Autonomous/Remote Control Mecanum Wheels Tesla Roadster.*](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster) Unpublished manuscript, California State Polytechnic University, Pomona. -->
@@ -58,47 +60,20 @@ Grad Course Projects
 <!-- * 1/2023-4/2023: Researcher
   * FPGA Toolchain for MacOS [[Portfolio](https://sontung1010.github.io/portfolio/2023-04-16-portfolio/)][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)] -->
 
-**California State Polytechnic University, Pomona**, CA, USA
-* Jan 2022 - Dec 2022: Robotics Researcher
-  * *Autonomous/Remote Control Mecanum Wheel Tesla Roadster in real-world*
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-18-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
-  * Advisor: [Prof. Scott Boskovich](https://www.linkedin.com/in/scott-boskovich-phd-aa55b91/)
 
 
 
 
-Professional Experience
+Industry Experience
 ======
 * Jun 2024 - Aug 2024: Advanced Mobility Tech Engineering Intern
   * **PACCAR - Peterbilt Motors Company**, PACCAR Innovation Center, Sunnyvale, CA, USA
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-08-20-portfolio/)]
 
-* Aug 2022 - May 2023: Embedded Software Engineer, *Unmanned Aerial & Ground Vehicle (UAV & UGV)*
-  * **Northrop Grumman Collaboration Project**, California State Polytechnic University, Pomona, CA, USA
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2023-05-29-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
 
-<!-- * 5/2022-8/2022: Embedded Software Developer Intern 
-  * FPT USA Corp. [[Github](https://github.com/sontung1010/FPT_USA_Intern_Roku_Development)]
 
-* 5/2021-7/2021: Software Development Intern
-  * Rakuna [[Github](https://github.com/sontung1010/Rakuna_Intern_Web_Development)]
 
-* 9/2020-1/2021: Teaching Assistant
-  * Prestige English Center  -->
 
-Projects
-======
-* Aug 2023 - Dec 2023: Embedded Software Engineer
-  * **Advanced Driver Assistance Systems (ADAS) Simulation**, University of Michigan, Ann Arbor, MI, USA
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-11-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
-
-* Aug 2022 - Dec 2022: Robotics Engineer
-  * **Autonomous Robot Competition**, California State Polytechnic University, Pomona, CA, USA
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
-
-* Personal Project in progress: 
-  * Hexapod Robot for Multi-Terrain Exploration [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-11-portfolio/)][[Github]()][[Publication]()]
-  * Bionic Arm [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-01-portfolio/)][[Github]()]
 
 
 <!-- * .vim setup [[.vim Github](https://github.com/sontung1010/.vim)][[vim_vscode GitHub](https://github.com/sontung1010/vim_vscode_setup)]
@@ -123,7 +98,35 @@ Skills
 * Software: Python, C++, C, Linux, Bash/Shell Scripting, Git, Debugger, Docker
 
 
-  
+Other Experience
+======
+* Aug 2023 - Dec 2023: EECS 461 Advanced Driver Assistance Systems (ADAS) Simulation, *Embedded Software Engineer*
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-11-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
+
+* Aug 2022 - May 2023: CPP Northrop Grumman Collaboration Project, *Robotics Engineer*
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2023-05-29-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
+
+* Aug 2022 - Dec 2022: CPP Autonomous Robot Competition, *Lead Robotics Engineer*
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
+
+* Aug 2022 - Oct 2022: CPP NASA Student Launch 2023, *Parachute Team Lead*
+
+* Sep 2022: CPP Student Unmanned Aerial Systems Competition 2023, *Mechatronics Volunteer*
+
+* Aug 2022: CPP BILL-EE - University Rover Challenge 2023, *Project Volunteer*
+
+* May 2022 - Aug 2022: FPT USA Corp., *Embedded Software Engineer Intern*
+
+* Jan 2022 - Dec 2022: Autonomous/Remote Control Mecanum Wheel Tesla Roadster in Real-world Project, *Robotics Engineer*
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-18-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
+
+* May 2021 - Jul 2021: Rakuna - HR Tech Company, *Software Developer Intern*
+
+* Personal Project in progress: 
+  * Hexapod Robot for Multi-Terrain Exploration [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-11-portfolio/)][[Github]()][[Publication]()]
+  * Bionic Arm [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-01-portfolio/)][[Github]()]
+
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
@@ -143,16 +146,22 @@ Service and leadership
 
 Honors & Awards
 ======
+* 2023 CPP Valedictorian: Electromechanical Systems Engineering Technology [[View](https://sontung1010.github.io/posts/2023/04/14/blog-post-1/)]
+* 2019 CPP International Student Award Scholarship - $1,500
+* CPP Dean’s Honor List: 2019, 2020, 2021, 2022; President’s Honor List: 2020, 2021
 
-* Valedictorian: Electromechanical Systems Engineering Technology, California State Polytechnic University, Pomona (2023) [[View](https://sontung1010.github.io/posts/2023/04/14/blog-post-1/)]
-* International Student Award Scholarship: California State Polytechnic University, Pomona
-* Dean’s Honor List: 2019, 2020, 2021, 2022; President’s Honor List: 2020, 2021
-
-Organizations
+Community Involvement
 ======
-* Robotics & Optimization for Analysis of Human Motion (ROAHM) Lab [[View](https://www.roahmlab.com/)]
-* Field Robotics Group [[View](https://fieldrobotics.engin.umich.edu/team)]
-* Tau Beta Pi - The Engineering Honor Society (TBP) [[View](https://sontung1010.github.io/posts/2022/05/10/blog-post-1/)]
-* Eta Kappa Nu - International Honor Society of Electrical and Electronics Engineers (IEEE-HKN)
-* Institute of Electrical and Electronics Engineers (IEEE)
+* Jan 2024: UM-Ann Arbor IEEE-HKN Beta Epsilon, *Membership pending*
+* Aug 2023: IEEE Robotics and Automation Society, *Member*
+* Aug 2022 - Dec 2022: CPP TBP CA Nu - The Engineering Honor Society [[View](https://sontung1010.github.io/posts/2022/05/10/blog-post-1/)], *Vice President*
+* Aug 2020 - Jan 2021: Prestige English Center, *Teaching Assistant*
 
+References
+======
+* [**Prof. Ram Vasudevan**](https://www.roahmlab.com/ram-personal)
+  * Associate Professor of Robotics Institute at UM-Ann Arbor, **Email:** ramv@umich.edu, **Tel:** (734) 647-5560.
+* [**Prof. Katherine A. Skinner**](https://fieldrobotics.engin.umich.edu/team)
+  * Assistant Professor of Robotics Institute at UM-Ann Arbor, **Email:** kskin@umich.edu
+* [**Mr. Gavin Coelho**](https://www.linkedin.com/in/gavincoelho/)
+  * Sr. System Architect Engineer of Peterbilt Motors Company at PACCAR Innovation Center, **Email:** gavin.coelho@paccar.com, **Tel:** (940) 273-0319.
