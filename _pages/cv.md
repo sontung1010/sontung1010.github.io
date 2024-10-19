@@ -66,8 +66,7 @@ Grad Course Projects
 
 Industry Experience
 ======
-* Jun 2024 - Aug 2024: Advanced Mobility Tech Engineering Intern
-  * **PACCAR - Peterbilt Motors Company**, PACCAR Innovation Center, Sunnyvale, CA, USA
+* Jun 2024 - Aug 2024: **PACCAR - Peterbilt Motors Company**, Advanced Mobility Tech Engineering Intern
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-08-20-portfolio/)]
 
 
