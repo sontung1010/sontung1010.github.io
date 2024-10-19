@@ -42,7 +42,7 @@ Publications
 Research Experience
 ======
 <!-- **University of Michigan, Ann Arbor**, MI, USA -->
-* Dec 2023 - Present: Graduate Research Assistant, [**UM-Ann Arbor Field Robotics Group**](https://fieldrobotics.engin.umich.edu/team) with [Prof. Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team)
+* Dec 2023 - Present: Graduate Research Assistant, [**UM-Ann Arbor Field Robotics Group**](https://fieldrobotics.engin.umich.edu/home) with [Prof. Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team)
   * Worked on *Intelligent Navigation of Autonomous Maritime Robots*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-09-20-portfolio/)][[Github]()][[Publication]()]
 
