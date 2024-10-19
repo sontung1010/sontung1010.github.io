@@ -106,8 +106,8 @@ Skills
 
 Other Experience
 ======
-* Aug 2023-Dec 2023: EECS 461 Advanced Driver Assistance Systems (ADAS) Simulation, *Embedded Software Engineer*
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-11-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
+<!-- * Aug 2023-Dec 2023: EECS 461 Advanced Driver Assistance Systems (ADAS) Simulation, *Embedded Software Engineer*
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-11-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)] -->
 
 * Aug 2022-May 2023: CPP Northrop Grumman Collaboration Project, *Robotics Engineer*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-05-29-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
