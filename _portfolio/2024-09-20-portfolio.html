@@ -1,6 +1,6 @@
 ---
 title: "Intelligent Navigation of Autonomous Maritime Robots (Work in Progress)"
-excerpt: "<b>Skills:</b> ROS, ROS2, Simulation (Rviz, Gazebo), Sensor Integration (LIDAR, Camera, IMU), Machine Learning (PyTorch, TensorFlow), SLAM, Control Systems (PID), Computer Vision (OpenCV), Python, C++, Linux, Bash/Shell Scripting, Git, Debugger, Microcontroller, PWM, SolidWorks<br/><img src='/images/usv.png'>"
+excerpt: "<b>Skills:</b> ROS, ROS2, Rviz, Gazebo, SLAM (Hector SLAM), Sensor Fusion (LIDAR, Camera, IMU, GPS, Odometry), object avoidance algorithm, autonomous navigation, PyTorch, TensorFlow, U-Net, OpenCV, PID, Python, C++, Linux, Bash/Shell Scripting, Git, Docker, Microcontroller, SolidWorks, 3D printing<br/><img src='/images/usv.png'>"
 collection: portfolio
 ---
 
@@ -34,14 +34,12 @@ collection: portfolio
 
 <div>
     <p>
-        - Designed and programmed the URDF model for the Heron Unmanned Surface Vehicle (USV) by Clearpath Robotics and developed a “world” model in ROS2 and Gazebo Garden for the Marine Hydrodynamics Lab.<br>
-        - Prepared the Heron USV for real-world testing by setting up battery, electrical, and mechanical systems; customized and 3D-printed parts to accommodate sensors; connected LIDAR, camera, IMU, indoor GPS, and odometry sensors via ROS for smooth data acquisition and integration.<br>
-        - Developed and implemented an object avoidance algorithm using Python and C++, integrated it with the USV’s mechanical control systems, and refined it through rigorous testing in real-world and simulated environments.<br>
-        - Conducted real-world testing, collected sensor data (LIDAR, camera, odometry, IMU, velocity), replicated the data in simulation, analyzed autonomous navigation performance by extracting LIDAR data and evaluating vehicle stability during “straight line” and “2 buoys” tests under varying wave conditions.<br>
-        - Engineered sensor data fusion by aligning the laser/scan frame with the odometry/filtered transform frame, ensuring accurate transformations between critical frames and synchronizing timestamps for SLAM analysis in RViz using the Hector SLAM package.<br>
-        - Designed a camera holder using SolidWorks, installed it on the Heron USV without interfering with the LIDAR scan, and streamed real-time camera data to RViz during real-world vehicle testing.<br>
-        - Post-processing collected data into a format suitable and segmenting collected images for reinforcement learning training, training a U-Net model for image segmentation to improve the USV’s perception capabilities.<br>
-        - Trying to configure the actual vehicle’s camera URDF in RViz and updating the training simulation’s camera’s URDF for enhanced precision in control and navigation tasks.<br>
+        - Developed a URDF model for the Heron Unmanned Surface Vehicle (USV) in ROS2 and Gazebo Garden, creating a detailed simulation environment for testing autonomous marine systems in the Marine Hydrodynamics Lab.<br>
+        - Prepared the Heron USV for real-world deployment by configuring battery, electrical, and mechanical systems; 3D-printed custom sensor mounts; and integrated LIDAR, camera, IMU, GPS, and odometry sensors through ROS for synchronized data acquisition.<br>
+        - Designed and implemented an object avoidance algorithm in Python and C++, refining it through extensive testing in simulated and real-world environments, optimizing the USV’s mechanical control systems for autonomous navigation.<br>
+        - Conducted real-world testing under varying wave conditions, collected sensor data (LIDAR, camera, odometry, IMU), and replicated the data in simulation to analyze the stability and accuracy of autonomous navigation during tests such as “straight line” and “2 buoys.”<br>
+        - Engineered sensor data fusion by aligning laser/scan and odometry/filtered transform frames, ensuring accurate timestamp synchronization and transformations between frames for SLAM analysis in RViz using the Hector SLAM package.<br>
+        - Designing a U-Net model for image segmentation to improve the USV’s perception capabilities, post-processing collected data for reinforcement learning training, and configuring the camera URDF in real-world and simulated environments for precise control and navigation.<br>
 
 
 
@@ -78,7 +76,7 @@ collection: portfolio
         [<a href="" target="_blank">GitHub</a>][<a href="" target="_blank">Publication</a>] 
     </p>
     <p>
-        <b>Skills:</b> ROS, ROS2, Simulation (Rviz, Gazebo), Sensor Integration (LIDAR, Camera, IMU), SLAM, Machine Learning (PyTorch, TensorFlow), Control Systems (PID), Computer Vision (OpenCV), Python, C++, Linux, Bash/Shell Scripting, Git, Debugger, Microcontroller, PWM, SolidWorks<br>
+        <b>Skills:</b> ROS, ROS2, Rviz, Gazebo, SLAM (Hector SLAM), Sensor Fusion (LIDAR, Camera, IMU, GPS, Odometry), object avoidance algorithm, autonomous navigation, PyTorch, TensorFlow, U-Net, OpenCV, PID, Python, C++, Linux, Bash/Shell Scripting, Git, Docker, Microcontroller, SolidWorks, 3D printing<br>
         <b>Contributors' Acknowledgement:</b>
     </p>
 </div>
