@@ -128,7 +128,7 @@ Other Experience
 
 * May 2021-Jul 2021: Rakuna - HR Tech Company, *Software Developer Intern*
 
-* Personal Project in progress: 
+* Personal Project in free time: 
   * Hexapod Robot for Multi-Terrain Exploration [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-11-portfolio/)][[Github]()][[Publication]()]
   * Bionic Arm [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-01-portfolio/)][[Github]()]
 
