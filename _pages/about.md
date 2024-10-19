@@ -15,8 +15,8 @@ I am a graduate student at the University of Michigan, Ann Arbor, pursuing my Ma
 
 I received my Bachelor's degree in Electromechanical Systems Engineering Technology from California State Polytechnic University, Pomona.
 
-Currently, I am working as a Graduate Research Assistant with [ROAHM Lab](https://www.roahmlab.com/) and [UM Field Robotics Group](https://fieldrobotics.engin.umich.edu/). My primary research areas are Autonomous Vehicles and Reinforcement Learning. 
+Currently, I am working as a Graduate Research Assistant with [ROAHM Lab](https://www.roahmlab.com/) and [UM Field Robotics Group](https://fieldrobotics.engin.umich.edu/). My primary research areas are Autonomous Vehicles, Reinforcement Learning, and Control Systems.
 
-However, my interest also spreads across Bipedal/Bionic/Humanoid Robotics, and Quadruped/Hexapod Robots. My passion and goal are building fully functioning and even transforming robots. 
+In my free time, I enjoy playing basketball and games. 
 
 For work or professional inquiries, I can be reached at my email address or through my LinkedIn profile. 
