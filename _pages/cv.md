@@ -32,7 +32,7 @@ Education
 
 Publications
 ======
-*	Shrestha, E., Wan, H., Do, T., Rawal, M., Singh, S., & Vasudevan, R. (2024). *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing.* Submitted to IEEE International Conference on Robotics and Automation (ICRA).
+*	Shrestha, E., Wan, H., **Do, T.**, Rawal, M., Singh, S., & Vasudevan, R. (2024). *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing.* Submitted to IEEE International Conference on Robotics and Automation (ICRA).
 
 
 <!-- *	[Wan, H., Kusumadjaja, K., Lee, S.H., & Do, T. (2024). *Enhancing Vision-based SLAM through Shadow Removal Preprocessing.*](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing) Unpublished manuscript, University of Michigan, Ann Arbor.
