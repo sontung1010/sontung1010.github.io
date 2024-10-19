@@ -48,7 +48,7 @@ Research Experience
 
 
 Grad Course Projects
-
+======
 * Winter 2024: **EECS 568 Mobile Robotics** with [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/)
   * *Enhancing Vision-based SLAM through Shadow Removal Processing* 
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-19-portfolio/)][[Github](https://github.com/dyingplant/mobrob11)][[Publication](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing)]
