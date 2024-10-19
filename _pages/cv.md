@@ -13,16 +13,21 @@ redirect_from:
 
 Education
 ======
-* **M.Sc. in Electrical and Computer Engineering, emphasis in Robotics**, University of Michigan, Ann Arbor, Aug 2023 - May 2025 (expected)
-  * Publication: *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing*
+* **University of Michigan**, Ann Arbor, MI, USA, Aug 2023-May 2025 (expected)
+  * Master of Science 
+  * Major: Electrical and Computer Engineering, emphasis in Robotics
+  <!-- * Publication: *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing* -->
   * GPA: overall 3.9/4.0
-  * Supervisors: Prof. Ram Vasudevan, Prof. Katherine A. Skinner
+  <!-- * Supervisors: Prof. Ram Vasudevan, Prof. Katherine A. Skinner -->
   * Relevant Coursework: Embedded Control Systems, Self-Driving Cars, Mobile Robotics, Math for Robotics, Machine Learning, Computer Vision
 
-* **B.Sc. in Electromechanical Systems Engineering Technology**, California State Polytechnic University - Pomona, Aug 2018 - May 2023 [[View](/images/eDiploma_official_.pdf)]
-  * Valedictorian, Magna cum laude
+* **California State Polytechnic University**, Pomona, CA, USA, Aug 2018-May 2023
+  * Bachelor of Science
+  * Major: Electromechanical Systems Engineering Technology
+  * Valedictorian [[View](https://sontung1010.github.io/posts/2023/04/14/blog-post-1/)], Magna cum laude [[View](/images/eDiploma_official_.pdf)]
   * GPA: overall 3.69/4.0; Engineering-only 3.86/4.0
   * Relevant Coursework: Robotics, Autonomous Vehicle, Feedback Control Systems, Machine Elements, Finite Elements, Engineering Graphics, C/C++ Programming, Digital Design FPGA/Verilog, Electronic Systems, Electrical Networks, Dynamics, Strength of Materials, Fluid Mechanics, Thermodynamics
+
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Publications
@@ -66,7 +71,7 @@ Grad Course Projects
 
 Industry Experience
 ======
-* Jun 2024 - Aug 2024: **PACCAR - Peterbilt Motors Company**, Advanced Mobility Tech Engineering Intern
+* Jun 2024-Aug 2024: **PACCAR - Peterbilt Motors Company**, Advanced Mobility Tech Engineering Intern
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-08-20-portfolio/)]
 
 
@@ -100,27 +105,27 @@ Skills
 
 Other Experience
 ======
-* Aug 2023 - Dec 2023: EECS 461 Advanced Driver Assistance Systems (ADAS) Simulation, *Embedded Software Engineer*
+* Aug 2023-Dec 2023: EECS 461 Advanced Driver Assistance Systems (ADAS) Simulation, *Embedded Software Engineer*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-11-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
 
-* Aug 2022 - May 2023: CPP Northrop Grumman Collaboration Project, *Robotics Engineer*
+* Aug 2022-May 2023: CPP Northrop Grumman Collaboration Project, *Robotics Engineer*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-05-29-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
 
-* Aug 2022 - Dec 2022: CPP Autonomous Robot Competition, *Lead Robotics Engineer*
+* Aug 2022-Dec 2022: CPP Autonomous Robot Competition, *Lead Robotics Engineer*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-15-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Robot-Competition)]
 
-* Aug 2022 - Oct 2022: CPP NASA Student Launch 2023, *Parachute Team Lead*
+* Aug 2022-Oct 2022: CPP NASA Student Launch 2023, *Parachute Team Lead*
 
 * Sep 2022: CPP Student Unmanned Aerial Systems Competition 2023, *Mechatronics Volunteer*
 
 * Aug 2022: CPP BILL-EE - University Rover Challenge 2023, *Project Volunteer*
 
-* May 2022 - Aug 2022: FPT USA Corp., *Embedded Software Engineer Intern*
+* May 2022-Aug 2022: FPT USA Corp., *Embedded Software Engineer Intern*
 
-* Jan 2022 - Dec 2022: Autonomous/Remote Control Mecanum Wheel Tesla Roadster in Real-world Project, *Robotics Engineer*
+* Jan 2022-Dec 2022: Autonomous/Remote Control Mecanum Wheel Tesla Roadster in Real-world Project, *Robotics Engineer*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2022-12-18-portfolio/)][[Github](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)][[Publication](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster)]
 
-* May 2021 - Jul 2021: Rakuna - HR Tech Company, *Software Developer Intern*
+* May 2021-Jul 2021: Rakuna - HR Tech Company, *Software Developer Intern*
 
 * Personal Project in progress: 
   * Hexapod Robot for Multi-Terrain Exploration [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-11-portfolio/)][[Github]()][[Publication]()]
@@ -154,8 +159,8 @@ Community Involvement
 ======
 * Jan 2024: UM-Ann Arbor IEEE-HKN Beta Epsilon, *Membership pending*
 * Aug 2023: IEEE Robotics and Automation Society, *Member*
-* Aug 2022 - Dec 2022: CPP TBP CA Nu - The Engineering Honor Society [[View](https://sontung1010.github.io/posts/2022/05/10/blog-post-1/)], *Vice President*
-* Aug 2020 - Jan 2021: Prestige English Center, *Teaching Assistant*
+* Aug 2022-Dec 2022: CPP TBP CA Nu - The Engineering Honor Society [[View](https://sontung1010.github.io/posts/2022/05/10/blog-post-1/)], *Vice President*
+* Aug 2020-Jan 2021: Prestige English Center, *Teaching Assistant*
 
 References
 ======
