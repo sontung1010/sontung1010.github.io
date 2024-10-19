@@ -9,47 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-[[***Download latest version, updated Oct 17, 2024***](/files/TungDo_CurriculumVitae.pdf)]
+[[***Download latest version, updated Oct 19, 2024***](/files/TungDo_Curriculum_Vitae.pdf)]
 
 Education
 ======
 * **M.Sc. in Electrical and Computer Engineering, emphasis in Robotics**, University of Michigan, Ann Arbor, Aug 2023 - May 2025 (expected)
   * Publication: *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing*
-  * GPA: 3.9/4.0
+  * GPA: overall 3.9/4.0
   * Supervisors: Prof. Ram Vasudevan, Prof. Katherine A. Skinner, Dr. Elena Shrestha
   * Relevant Coursework: Embedded Control Systems, Self-Driving Cars, Mobile Robotics, Math for Robotics, Machine Learning, Computer Vision
 
 * **B.Sc. in Electromechanical Systems Engineering Technology**, California State Polytechnic University - Pomona, Aug 2018 - May 2023 [[View](/images/eDiploma_official_.pdf)]
   * Valedictorian, Magna cum laude
-  * Thesis: *Autonomous/Remote Control Mecanum Wheels Tesla Roadster in real-world*
-  * Advisor: Prof. Scott Boskovich
+  * GPA: overall 3.69/4.0; Engineering-only 3.86/4.0
   * Relevant Coursework: Robotics, Autonomous Vehicle, Feedback Control Systems, Machine Elements, Finite Elements, Engineering Graphics, C/C++ Programming, Digital Design FPGA/Verilog, Electronic Systems, Electrical Networks, Dynamics, Strength of Materials, Fluid Mechanics, Thermodynamics
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Academic Research Experience
+Publications
 ======
-**University of Michigan, Ann Arbor**, MI, USA
-* Dec 2023 - Present: Graduate Research Assistant, [**Field Robotics Group**](https://fieldrobotics.engin.umich.edu/team)
-  * *Intelligent Navigation of Autonomous Maritime Robots*
+*	Shrestha, E., Wan, H., Do, T., Rawal, M., Singh, S., & Vasudevan, R. (2024). *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing.* Submitted to IEEE International Conference on Robotics and Automation (ICRA).
+<!-- *	[Wan, H., Kusumadjaja, K., Lee, S.H., & Do, T. (2024). *Enhancing Vision-based SLAM through Shadow Removal Preprocessing.*](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing) Unpublished manuscript, University of Michigan, Ann Arbor.
+*	[Do, T., Liu, X., & Swayampakula, R. (2023). *Enhancing Monocular 3D Object Detection in Foggy Conditions: An Adapted MonoCon Approach for Autonomous Vehicles.*](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions) Unpublished manuscript, University of Michigan, Ann Arbor.
+*	[Do, T. (2023). *Autonomous/Remote Control Mecanum Wheels Tesla Roadster.*](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster) Unpublished manuscript, California State Polytechnic University, Pomona. -->
+
+Research Experience
+======
+<!-- **University of Michigan, Ann Arbor**, MI, USA -->
+* Dec 2023 - Present: Graduate Research Assistant, [**UM-Ann Arbor Field Robotics Group**](https://fieldrobotics.engin.umich.edu/team) with [Prof. Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team)
+  * Worked on *Intelligent Navigation of Autonomous Maritime Robots*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
-  * Supervisors: [Prof. Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
 
-* Aug 2023 - Present: Graduate Research Assistant, [**Robotics & Optimization for Analysis of Human Motion (ROAHM) Lab**](https://www.roahmlab.com/)
-  * *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing*
+* Aug 2023 - Sep 2024: Graduate Research Assistant, [**UM-Ann Arbor Robotics & Optimization for Analysis of Human Motion (ROAHM) Lab**](https://www.roahmlab.com/) with [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal)
+  * Worked on *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing* as the third author
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
-  * Supervisors: [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal) and [Dr. Elena Shrestha](https://www.linkedin.com/in/elena-shrestha/)
 
 
-* Feb 2024 - Apr 2024: Robotics Researcher
+Grad Course Projects
+
+* Winter 2024: **EECS 568 Mobile Robotics** with [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/)
   * *Enhancing Vision-based SLAM through Shadow Removal Processing* 
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-19-portfolio/)][[Github](https://github.com/dyingplant/mobrob11)][[Publication](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing)]
-  * Advisor: [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/)
 
-* Oct 2023 - Dec 2023: Robotics Researcher
+* Fall 2023: **ROB 535 Self Driving Cars** with [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/) 
   * *Enhancing Monocular 3D Object Detection in Foggy Condition: An Adapted MonoCon Approach for Autonomous Vehicles* 
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-12-portfolio/)][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)][[Publication](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
-  * Advisor: [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/)
 
 <!-- * 1/2023-4/2023: Researcher
   * FPGA Toolchain for MacOS [[Portfolio](https://sontung1010.github.io/portfolio/2023-04-16-portfolio/)][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)] -->
@@ -61,12 +65,6 @@ Academic Research Experience
   * Advisor: [Prof. Scott Boskovich](https://www.linkedin.com/in/scott-boskovich-phd-aa55b91/)
 
 
-Publications
-======
-*	Shrestha, E., Wan, H., Do, T., Rawal, M., Singh, S., & Vasudevan, R. (2024). *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing.* Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2025.
-*	[Wan, H., Kusumadjaja, K., Lee, S.H., & Do, T. (2024). *Enhancing Vision-based SLAM through Shadow Removal Preprocessing.*](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing) Unpublished manuscript, University of Michigan, Ann Arbor.
-*	[Do, T., Liu, X., & Swayampakula, R. (2023). *Enhancing Monocular 3D Object Detection in Foggy Conditions: An Adapted MonoCon Approach for Autonomous Vehicles.*](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions) Unpublished manuscript, University of Michigan, Ann Arbor.
-*	[Do, T. (2023). *Autonomous/Remote Control Mecanum Wheels Tesla Roadster.*](https://sontung1010.github.io/publication/2023-12-14-Autonomous-RC_Mecanum_Wheels_Tesla_Roadster) Unpublished manuscript, California State Polytechnic University, Pomona.
 
 
 Professional Experience
