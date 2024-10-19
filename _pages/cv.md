@@ -109,6 +109,12 @@ Other Experience
 <!-- * Aug 2023-Dec 2023: EECS 461 Advanced Driver Assistance Systems (ADAS) Simulation, *Embedded Software Engineer*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-11-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)] -->
 
+* Jun 2023: Hexapod Robot for Multi-Terrain Exploration (Personal Project), *Robotics Engineer*
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-11-portfolio/)][[Github]()][[Publication]()]
+
+* Jun 2023: Bionic Arm (Personal Project), *Robotics Engineer*
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-01-portfolio/)][[Github]()]
+
 * Aug 2022-May 2023: CPP Northrop Grumman Collaboration Project, *Robotics Engineer*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-05-29-portfolio/)][[UAV Github](https://github.com/sontung1010/Northrop_Grumman_UAV)][[UGV GitHub](https://github.com/sontung1010/Northrop_Grumman_UGV)]
 
@@ -128,9 +134,6 @@ Other Experience
 
 * May 2021-Jul 2021: Rakuna - HR Tech Company, *Software Developer Intern*
 
-* Personal Project in free time: 
-  * Hexapod Robot for Multi-Terrain Exploration [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-11-portfolio/)][[Github]()][[Publication]()]
-  * Bionic Arm [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-01-portfolio/)][[Github]()]
 
 
 <!-- Talks
