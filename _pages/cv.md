@@ -44,12 +44,12 @@ Research Experience
 <!-- **University of Michigan, Ann Arbor**, MI, USA -->
 * Dec 2023 - Present: Graduate Research Assistant, [**UM-Ann Arbor Field Robotics Group**](https://fieldrobotics.engin.umich.edu/team) with [Prof. Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team)
   * Worked on *Intelligent Navigation of Autonomous Maritime Robots*
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2024-09-20-portfolio/)][[Github]()][[Publication]()]
 
 
 * Aug 2023 - Sep 2024: Graduate Research Assistant, [**UM-Ann Arbor Robotics & Optimization for Analysis of Human Motion (ROAHM) Lab**](https://www.roahmlab.com/) with [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal)
   * Worked on *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing* as the third author
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-25-portfolio/)][[Github]()][[Publication]()]
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2024-09-15-portfolio/)][[Github]()][[Publication]()]
 
 
 Grad Course Projects
