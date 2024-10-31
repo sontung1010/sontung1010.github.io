@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[***Download latest version, updated Oct 19, 2024***](/files/TungDo_Curriculum_Vitae.pdf)]
+[[***Download latest version, updated Oct 30, 2024***](/files/TungDo_Curriculum_Vitae.pdf)]
 
 Education
 ======
@@ -44,7 +44,7 @@ Research Experience
 <!-- **University of Michigan, Ann Arbor**, MI, USA -->
 * Dec 2023 - Present: Graduate Research Assistant, [**UM-Ann Arbor Field Robotics Group**](https://fieldrobotics.engin.umich.edu/home) with [Prof. Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team)
   * Worked on *Intelligent Navigation of Autonomous Maritime Robots* as the second author
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2024-09-20-portfolio/)][[Github]()][[Publication]()]
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2024-09-20-portfolio/)][[Github]()][[Publication]()][[Slide](https://docs.google.com/presentation/d/1Wo0taPh-kO_MZQG2ks1Mqtz40RwyG-0U/edit#slide=id.g31081660d9f_0_0)]
 
 
 * Aug 2023 - Sep 2024: Graduate Research Assistant, [**UM-Ann Arbor Robotics & Optimization for Analysis of Human Motion (ROAHM) Lab**](https://www.roahmlab.com/) with [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal)
