@@ -127,8 +127,6 @@ Other Experience
 
 * Sep 2022: CPP Student Unmanned Aerial Systems Competition 2023, *Mechatronics Volunteer*
 
-* Aug 2022: CPP BILL-EE - University Rover Challenge 2023, *Project Volunteer*
-
 * May 2022-Aug 2022: FPT USA Corp., *Embedded Software Engineer Intern*
 
 * Jan 2022-Dec 2022: Autonomous/Remote Control Mecanum Wheel Tesla Roadster in Real-world Project, *Robotics Engineer*
