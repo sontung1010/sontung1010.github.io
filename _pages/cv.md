@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[***Download latest version, updated Oct 30, 2024***](/files/TungDo_Curriculum_Vitae.pdf)]
+[[***Download latest version, updated Nov 1, 2024***](/files/TungDo_Curriculum_Vitae.pdf)]
 
 Education
 ======
@@ -62,7 +62,7 @@ Grad Course Projects
   * *Enhancing Monocular 3D Object Detection in Foggy Condition: An Adapted MonoCon Approach for Autonomous Vehicles* 
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-12-portfolio/)][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)][[Publication](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)] -->
 
-* Fall 2023: **EECS 461 Advanced Driver Assistance Systems (ADAS) Simulation** with [Prof. James Freudenberg](https://freudenberg.engin.umich.edu/teaching/)
+* Fall 2023: **EECS 461 Embedded Control Systems** with [Prof. James Freudenberg](https://freudenberg.engin.umich.edu/teaching/)
   * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-11-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
 
 <!-- * 1/2023-4/2023: Researcher
