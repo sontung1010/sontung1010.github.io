@@ -109,6 +109,7 @@ Skills
 
 Other Experience
 ======
+* Oct 2023-Dec 2023: Enhancing Monocular 3D Object Detection in Foggy Condition: An Adapted MonoCon Approach for Autonomous Vehicles, *Robotics Researcher*
 
 * Jun 2023: Hexapod Robot for Multi-Terrain Exploration (Personal Project), *Robotics Engineer*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-11-portfolio/)][[Github]()][[Publication]()]
