@@ -44,12 +44,12 @@ Research Experience
 <!-- **University of Michigan, Ann Arbor**, MI, USA -->
 * Dec 2023 - Present: Graduate Research Assistant, [**UM-Ann Arbor Field Robotics Group**](https://fieldrobotics.engin.umich.edu/home) with [Prof. Katherine A. Skinner](https://fieldrobotics.engin.umich.edu/team)
   * Worked on *Intelligent Navigation of Autonomous Maritime Robots* as the second author
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2024-09-20-portfolio/)][[Github]()][[Publication]()][[Slide](https://docs.google.com/presentation/d/1Wo0taPh-kO_MZQG2ks1Mqtz40RwyG-0U/edit#slide=id.g31081660d9f_0_0)]
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2024-09-20-portfolio/)][[Github]()][[Publication]()][[Slide](https://docs.google.com/presentation/d/19Tz14ShtI7ksQvZ1I69B2yNZBIIl61KKa4lkgYfz3p8/edit#slide=id.g31081660d9f_0_0)]
 
 
 * Aug 2023 - Sep 2024: Graduate Research Assistant, [**UM-Ann Arbor Robotics & Optimization for Analysis of Human Motion (ROAHM) Lab**](https://www.roahmlab.com/) with [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal)
   * Worked on *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing* as the third author
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2024-09-15-portfolio/)][[Github]()][[Publication](https://sontung1010.github.io/publication/2024-09-15-Lucid-Dreamer-Multimodal-World-Model-for-Zero-Shot-Policy-Transfer-in-Multi-Agent-Autonomous-Racing)][[Slide](https://docs.google.com/presentation/d/1Wo0taPh-kO_MZQG2ks1Mqtz40RwyG-0U/edit#slide=id.g31081660d9f_0_286)]
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2024-09-15-portfolio/)][[Github]()][[Publication](https://sontung1010.github.io/publication/2024-09-15-Lucid-Dreamer-Multimodal-World-Model-for-Zero-Shot-Policy-Transfer-in-Multi-Agent-Autonomous-Racing)][[Slide](https://docs.google.com/presentation/d/19Tz14ShtI7ksQvZ1I69B2yNZBIIl61KKa4lkgYfz3p8/edit#slide=id.g31081660d9f_0_286)]
 
 
 Grad Course Projects
