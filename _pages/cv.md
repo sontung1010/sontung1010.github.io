@@ -58,9 +58,12 @@ Grad Course Projects
   <!-- * *Enhancing Vision-based SLAM through Shadow Removal Processing*  -->
   * [[Portfolio](https://sontung1010.github.io/portfolio/2024-04-19-portfolio/)][[Github](https://github.com/dyingplant/mobrob11)][[Publication](https://sontung1010.github.io/publication/2024-04-19-Enhancing-Vision-based-SLAM-through-Shadow-Removal-Processing)]
 
-* Fall 2023: **ROB 535 Self Driving Cars** with [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/) 
-  <!-- * *Enhancing Monocular 3D Object Detection in Foggy Condition: An Adapted MonoCon Approach for Autonomous Vehicles*  -->
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-12-portfolio/)][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)][[Publication](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)]
+<!-- * Fall 2023: **ROB 535 Self Driving Cars** with [Prof. Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/) 
+  * *Enhancing Monocular 3D Object Detection in Foggy Condition: An Adapted MonoCon Approach for Autonomous Vehicles* 
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-12-portfolio/)][[Github](https://github.com/sontung1010/MonoCon-Monocular_3D_Object_Detection)][[Publication](https://sontung1010.github.io/publication/2023-12-10-Enhancing-Monocular-3D-Object-Detection-in-Foggy-Conditions)] -->
+
+* Fall 2023: **EECS 461 Advanced Driver Assistance Systems (ADAS) Simulation** with [Prof. James Freudenberg](https://freudenberg.engin.umich.edu/teaching/)
+  * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-11-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)]
 
 <!-- * 1/2023-4/2023: Researcher
   * FPGA Toolchain for MacOS [[Portfolio](https://sontung1010.github.io/portfolio/2023-04-16-portfolio/)][[MacOS Toolchain Github](https://github.com/sontung1010/MacOS-FPGA-Toolchain)][[Training GitHub](https://github.com/sontung1010/Courses-Training/tree/CPP_FPGA)] -->
@@ -100,14 +103,12 @@ Skills
 * **Robotics & Autonomous Systems:** ROS, ROS2, RViz, Gazebo for simulation, SLAM (Hector SLAM, cartographer_ros), sensor fusion (Camera, LIDAR, IMU, GPS, Odometry), object avoidance algorithm, autonomous navigation
 * **Machine Learning & Computer Vision:** PyTorch, TensorFlow for reinforcement learning, U-Net image segmentation, OpenCV
 * **Control & Embedded Systems:** PID, Microcontrollers (STM32, Arduino PLC, NXP32), Single Board Computers (Nvidia Jetsons, Raspberry Pi), hardware interface (CAN, I2C, SPI)
+* **Programming & Software:** Python, C++, C, MATLAB, Simulink, Linux, Bash/Shell Scripting, Git, Docker 
 * **Mechanical Design & Prototyping:** SolidWorks, Creo Parametric, 3D printing, ANSYS FEA
-* **Programming & Software:** Python, C++, C, MATLAB, Linux, Bash/Shell Scripting, Git, Docker 
 
 
 Other Experience
 ======
-<!-- * Aug 2023-Dec 2023: EECS 461 Advanced Driver Assistance Systems (ADAS) Simulation, *Embedded Software Engineer*
-  * [[Portfolio](https://sontung1010.github.io/portfolio/2023-12-11-portfolio/)][[Github](https://github.com/sontung1010/Courses-Training/tree/UMich_Embedded_Control_Systems)] -->
 
 * Jun 2023: Hexapod Robot for Multi-Terrain Exploration (Personal Project), *Robotics Engineer*
   * [[Portfolio](https://sontung1010.github.io/portfolio/2022-11-11-portfolio/)][[Github]()][[Publication]()]
