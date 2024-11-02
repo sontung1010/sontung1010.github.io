@@ -10,4 +10,4 @@ citation: 'Shrestha, E., Wan, H., Do, T., Rawal, M., Singh, S., & Vasudevan, R. 
 - Abstract-
 - Index Terms:
 
-[[Portfolio](https://sontung1010.github.io/portfolio/2024-09-15-portfolio/)][[Download]()][[GitHub]()] 
+[[Portfolio](https://sontung1010.github.io/portfolio/2024-09-15-portfolio/)][[Download]()][[GitHub]()][[Slide](https://docs.google.com/presentation/d/1Wo0taPh-kO_MZQG2ks1Mqtz40RwyG-0U/edit#slide=id.g31081660d9f_0_286)] 
