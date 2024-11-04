@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[***Download latest version, updated Nov 1, 2024***](/files/TungDo_Curriculum_Vitae.pdf)]
+[[***Download latest version, updated Nov 4, 2024***](/files/TungDo_Curriculum_Vitae.pdf)]
 
 Education
 ======
@@ -102,9 +102,9 @@ Skills
 ======
 * **Robotics & Autonomous Systems:** ROS, ROS2, RViz, Gazebo for simulation, SLAM (Hector SLAM, cartographer_ros), sensor fusion (Camera, LIDAR, IMU, GPS, Odometry), object avoidance algorithm, autonomous navigation
 * **Machine Learning & Computer Vision:** PyTorch, TensorFlow for reinforcement learning, U-Net image segmentation, OpenCV
-* **Control & Embedded Systems:** PID, Microcontrollers (STM32, Arduino PLC, NXP32), Single Board Computers (Nvidia Jetsons, Raspberry Pi), hardware interface (CAN, I2C, SPI)
+* **Control & Embedded Systems:** PID, Microcontrollers (STM32, Arduino PLC, NXP32, PX4), Single Board Computers (Nvidia Jetsons, Raspberry Pi), hardware interface (GPIO, ADC, PWM, Timer, CAN, I2C, SPI, USART), FGPA
 * **Programming & Software:** Python, C++, C, MATLAB, Simulink, Linux, Bash/Shell Scripting, Git, Docker 
-* **Mechanical Design & Prototyping:** SolidWorks, Creo Parametric, 3D printing, ANSYS FEA
+* **Mechanical Design & Prototyping:** Kinematics, Dynamics, SolidWorks, Creo Parametric, 3D printing, ANSYS FEA
 
 
 Other Experience
