@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[***Download latest version, updated Nov 4, 2024***](/files/TungDo_Curriculum_Vitae.pdf)]
+[[***Download latest version, updated Nov 22, 2024***](/files/TungDo_Curriculum_Vitae.pdf)]
 
 Education
 ======
