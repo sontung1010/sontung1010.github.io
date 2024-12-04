@@ -1,0 +1,15 @@
+---
+layout: archive-project
+title: "My Archive Projects"
+permalink: /archive-projects/
+---
+
+<h1>Archive Projects</h1>
+<div class="archive-projects">
+  {% for post in site.archive_projects %}
+    <div class="archive-item">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+    </div>
+  {% endfor %}
+</div>
