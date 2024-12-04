@@ -8,15 +8,15 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- {% assign sorted_portfolio = site.portfolio | sort: 'name' | reverse %} -->
-{% for post in site.portfolio reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
 <!-- for archive-projects -->
 <div style="text-align: center; margin-top: 20px;">
   <a href="/archive-projects/" class="btn btn-primary">
     View My Archive Projects
   </a>
 </div>
+
+<!-- {% assign sorted_portfolio = site.portfolio | sort: 'name' | reverse %} -->
+{% for post in site.portfolio reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
