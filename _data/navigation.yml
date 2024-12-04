@@ -16,7 +16,6 @@ main:
     url: /archive-projects/
 
   - title: "CV"
-    # url: /cv/
     url: https://sontung1010.github.io/files/TungDo_Curriculum_Vitae.pdf
     external: true
     
