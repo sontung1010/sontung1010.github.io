@@ -10,4 +10,4 @@ citation: 'Do, T. (2023). Autonomous/Remote Control Mecanum Wheels Tesla Roadste
 - Abstract: This project aims to apply everything the student has learned in engineering about mechanics, machine elements, programming, and electronics to build a Mecanum Wheels Tesla Roadster to research the possibility of flexible movement in developing a smart vehicle network.
 - Keywords: Mecanum, Robot, Wheel, Tesla, smart car, innovative vehicle, network
 
-[[Portfolio](https://sontung1010.github.io/portfolio/2022-12-18-portfolio/)][[Download](/files/Autonomous-RC_Mecanum_Wheels_Tesla_Roadster.pdf)][[GitHub](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)]
+[[Portfolio](https://sontung1010.github.io/archive-projects/2022-12-18-portfolio/)][[Download](/files/Autonomous-RC_Mecanum_Wheels_Tesla_Roadster.pdf)][[GitHub](https://github.com/sontung1010/Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster)]
