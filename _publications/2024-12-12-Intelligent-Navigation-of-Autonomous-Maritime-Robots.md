@@ -5,7 +5,7 @@ permalink: /publication/2024-12-12-Intelligent-Navigation-of-Autonomous-Maritime
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-12-12
 # venue: 'Journal 1'
-citation: 'Shrestha, E., Do, T., Wakevainen, K., Song, J., & Skinner, K. (2024). *Intelligent Navigation of Autonomous Maritime Robots*. Preparation toward the Conference on Robot Learning 2025'
+citation: 'Shrestha, E., Do, T., Wakevainen, K., Song, J., & Skinner, K. (2024). Intelligent Navigation of Autonomous Maritime Robots. Preparation toward the Conference on Robot Learning 2025'
 ---
 - Abstract-
 - Index Terms:
