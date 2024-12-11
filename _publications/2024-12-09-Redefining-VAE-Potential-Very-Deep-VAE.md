@@ -10,4 +10,4 @@ citation: 'Jang, S., Do, T., Vaidyanathan, N., Lombard, E. (2024). Redefining VA
 - Abstract—
 - Index Terms:
 
-[[Portfolio]()][[Download](/files/EECS_553_Final.pdf)][[GitHub]()] 
+[[Portfolio]()][[Download](/files/EECS_553_Final.pdf)][[GitHub](https://github.com/sontung1010/Very_Deep_VAE)] 
