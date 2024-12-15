@@ -29,7 +29,6 @@ Education
   * Relevant Coursework: Robotics, Autonomous Vehicle, Feedback Control Systems, Machine Elements, Finite Elements, Engineering Graphics, C/C++ Programming, Digital Design FPGA/Verilog, Electronic Systems, Electrical Networks, Dynamics, Strength of Materials, Fluid Mechanics, Thermodynamics
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-
 Publications
 ======
 *	Shrestha, E., Wan, H., **Do, T.**, Rawal, M., Singh, S., & Vasudevan, R. (2024). *Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing.* Submitted to IEEE International Conference on Robotics and Automation (ICRA).
