@@ -24,24 +24,112 @@ collection: portfolio
         <b>Role:</b> Graduate Research Assistant, <b>Robotics & Optimization for Analysis of Human Motion (ROAHM) Lab</b><br>
     </p>
 </div>
-
-
 <div>
     <p>
-        <b>Contribution:</b><br>
+        <b>Autonomous Racing Challenges:</b><br>
+        - Difficult to collecting realistic training data<br>
+        - Noisy sensor measurements<br>
+        - Model uncertainty (dynamics)<br>
+        - Reduced performance and reliability<br>
+        - Real-time decision-making is essential<br>
+        - The limitations of onboard hardware<br>
+        - Complex, unstructured environments<br>
+        - Stochastic nature of environment<br>
+        - Localization and mapping<br>
     </p>
+    <img src="/images/USV/heron_banner.jpg"><br>
 </div>
-<div>
-    <p>
-        - Optimized the performance of the Jetson TX2 board to improve the efficiency of semantic segmentation tasks, reducing callback duration by fivefold and enhancing real-time processing for autonomous operations in dynamic environments.<br>
-        - Developed a waypoint-follower algorithm for multi-agent experiments, utilizing the cartographer\_ros package for map building and localization. This algorithm was crucial to reinforcement learning experiments by enabling precise navigation and path planning for multiple autonomous agents.<br>
-        - Configured a teleoperation controller, conducted LIDAR scans, calibrated IMUs, and implemented SLAM using cartographer\_ros, resolving critical frame transformation issues that enhanced system reliability and performance.<br>
-        - Prepared robot hardware for real-world testing, including setting up the battery, electrical, and mechanical components. I customized and 3D-printed parts to accommodate sensors, then connected and configured the sensors (LIDAR, camera, IMU, and odometry) through ROS for seamless data integration.<br>
-        - Assisted in real-world testing, gathering critical sensor data—such as LIDAR, camera, odometry, IMU, and velocity measurements—focused on the robot’s mechanical response and navigation control. This data was used to train and optimize a reinforcement learning model, improving the robot’s autonomous capabilities.<br>
-    </p>
-</div>
-
 <br>
+<div>
+    <p>
+        <b>Goal: </b> This project aims to overcome these obstacles, enabling the successful deployment and operation of AV in unpredictable environments, using our MBRL model.<br>
+    </p>
+</div>
+<br>
+<div>
+    <p>
+        <b>Why Model-based Reinforcement Learning (MBRL)?</b><br>
+        - Better Adaptation: Learns an internal model of the environment, helping it adapt to new policies and conditions, unlike model-free RL, which relies only on previous experience.<br>
+        - Faster Learning: Learns efficiently with fewer interactions than model-free RL, saving time and reducing the need for costly or risky data collection.<br>
+        - Clearer Decisions: Tracks important details about the environment, making it easier to understand and improve the agent’s behavior.<br>
+        - Stronger Sensor Integration: Combines inputs from multiple sensors (like LiDAR and cameras), giving a more accurate view of surroundings.<br>
+        - Safer High-Speed Control: Plans actions with an awareness of dynamics, balancing speed with safety, ideal for real-time sudden scenarios.<br>
+        <img src="/images/USV/why_MBRL.png"><br>
+    </p>
+</div>
+<br>
+<div>
+    <p>
+        <b>Related Work in MBRL for AV Path Planning</b><br>
+        <img src="/images/USV/path_planning_comparison.png"><br>
+    </p>
+</div>
+<br>
+<div>
+    <p>
+        <b>Our MBRL for USV Path Planning</b><br>
+        Method:<br>
+        - Adaptive Model Predictive Control (MPC): Dynamically adjusts to environmental changes using probabilistic models.<br>
+        - Online Learning: Incorporates new data in real-time to improve model accuracy and robustness.<br>
+        - Efficiency-Focused Design: Optimizes control actions to minimize computation while maintaining high control stability.<br>
+        Key Results:<br>
+        - Fast adaptation in dynamic conditions with reduced model drift.<br>
+        - High reliability in trajectory tracking and position-keeping under varying disturbances.<br>
+        <img src="/images/USV/our_MBRL.png"><br>
+    </p>
+</div>
+<br>
+<div>
+    <p>
+        <b>Hardware/System Design</b><br>
+        <img src="/images/USV/Screenshot 2025-01-17 213615.png"><br>
+    </p>
+</div>
+<br>
+
+<div>
+    <p>
+        <b>My Contribution:</b> Worked on “Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing” as the third author<br>
+        <p>
+            - Implemented SLAM using ROS packages, resolved frame transformation issues, and calibrated IMUs to improve system reliability and localization accuracy in dynamic environments for future tests.
+        </p>
+        <p>
+            - Designed and implemented a waypoint-follower algorithm in ROS for benchmarking Lucid Dreamer, enabling precise navigation and path planning in multi-agent reinforcement learning experiments.
+        </p>
+        <p>
+            - Prepared and maintained robot hardware for real-world testing by assembling batteries, mechanical components, and sensors (LiDAR, camera, IMU, odometry), ensuring seamless data integration and system functionality.
+        </p>
+        <p>
+            - Collected and analyzed sensor data during real-world tests to enhance reinforcement learning models, improving the robot’s autonomous navigation and control in dynamic scenarios.
+        </p>
+        <p>
+            - Optimized Jetson TX2 performance for real-time processing, reducing semantic segmentation latency and ensuring efficient operation in resource-constrained environments.
+        </p>
+    </p>
+</div>
+<br>
+<div>
+    <p>
+        <b>Summary</b><br>
+        - This project aims to develop an adaptive, real-time control system for autonomous racing system of AV.<br>
+        - Using Model-Based Reinforcement Learning (MBRL), the project addresses key challenges such as variable environmental conditions, sensor noise, and model uncertainty.<br>
+        - Through innovations in adaptive model predictive control, real-time online learning, and sensor fusion, the system aims to enable reliable autonomous racing decision under unpredictable conditions while minimizing computational load.<br>
+        - Real-world testing supports the system’s stability, demonstrating effective safety and collision avoidance in racing track.<br>
+
+    </p>
+</div>
+<br>
+<div>
+    <p>
+        <b>Future Work</b><br>
+        - Improve the model to work on higher complex environment.<br>
+        - Update the dimension/measurement of each sensor location to be more accurate for better result.<br>
+        - Improve the waypoint-following algorithm.<br>
+        - Update the simulation environment to be more realistic.<br>
+        - Fix camera’s URDF configuration in the code for future need.<br>
+    </p>
+</div>
+
 <div>
     <iframe width="420" height="315"
     src="https://youtube.com/embed/T87CyFyN1CY" 
