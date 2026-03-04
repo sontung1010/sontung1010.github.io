@@ -197,6 +197,12 @@
 
 .publication-row__title {
   margin-top: 0;
+  font-size: $type-size-3;
+  line-height: 1.3;
+}
+
+.publication-row__title a {
+  font-size: inherit;
 }
 
 .publication-row__meta {
