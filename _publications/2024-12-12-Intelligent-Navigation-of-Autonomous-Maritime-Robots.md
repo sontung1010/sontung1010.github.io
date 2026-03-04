@@ -1,5 +1,5 @@
 ---
-title: "Intelligent Navigation of Autonomous Maritime Robots (toward CoRL Submission)"
+title: "Intelligent Navigation of Autonomous Maritime Robots"
 collection: publications
 permalink: /publication/2024-12-12-Intelligent-Navigation-of-Autonomous-Maritime-Robots
 excerpt: "Model-based reinforcement learning for robust autonomous maritime navigation in dynamic environments."

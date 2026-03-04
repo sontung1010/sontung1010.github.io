@@ -12,8 +12,26 @@
   {% assign title = post.title %}
 {% endif %}
 
-{% if post.title_url %}
-  {% assign publication_title_url = post.title_url %}
+{% assign publication_title_url = nil %}
+{% assign publication_project_url = nil %}
+{% assign show_publication_placeholder = false %}
+
+{% if post.collection == 'portfolio' %}
+  {% if post.publication_url %}
+    {% if post.publication_url contains "://" %}
+      {% assign publication_title_url = post.publication_url %}
+    {% else %}
+      {% assign publication_title_url = post.publication_url | prepend: base_path %}
+    {% endif %}
+  {% else %}
+    {% assign show_publication_placeholder = true %}
+  {% endif %}
+{% elsif post.title_url %}
+  {% if post.title_url contains "://" %}
+    {% assign publication_title_url = post.title_url %}
+  {% else %}
+    {% assign publication_title_url = post.title_url | prepend: base_path %}
+  {% endif %}
 {% elsif post.link %}
   {% assign publication_title_url = post.link %}
 {% else %}
@@ -26,29 +44,43 @@
   {% else %}
     {% assign publication_project_url = post.project_url | prepend: base_path %}
   {% endif %}
+{% elsif post.collection == 'portfolio' %}
+  {% assign publication_project_url = post.url | prepend: base_path %}
 {% endif %}
 
 <article class="publication-row" itemscope itemtype="http://schema.org/CreativeWork">
   {% if teaser %}
     <div class="publication-row__media">
-      <a href="{{ publication_title_url }}">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% elsif teaser contains "/" %}
-            "{{ teaser | prepend: base_path }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </a>
+      {% if publication_title_url %}
+        <a href="{{ publication_title_url }}">
+      {% endif %}
+          <img src=
+            {% if teaser contains "://" %}
+              "{{ teaser }}"
+            {% elsif teaser contains "/" %}
+              "{{ teaser | prepend: base_path }}"
+            {% else %}
+              "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+            {% endif %}
+            alt="">
+      {% if publication_title_url %}
+        </a>
+      {% endif %}
     </div>
   {% endif %}
 
   <div class="publication-row__body">
     <h2 class="archive__item-title publication-row__title" itemprop="headline">
-      <a href="{{ publication_title_url }}">{{ title }}</a>
+      {% if publication_title_url %}
+        <a href="{{ publication_title_url }}">{{ title }}</a>
+      {% else %}
+        {{ title }}
+      {% endif %}
     </h2>
+
+    {% if show_publication_placeholder %}
+      <p class="publication-row__placeholder">Publication link coming soon.</p>
+    {% endif %}
 
     {% if post.authors_line and post.display_year %}
       <p class="publication-row__meta">{{ post.authors_line }} ({{ post.display_year }}).</p>

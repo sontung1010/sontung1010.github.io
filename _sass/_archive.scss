@@ -204,6 +204,13 @@
   font-size: $type-size-6;
 }
 
+.publication-row__placeholder {
+  margin-top: -0.2rem;
+  margin-bottom: 0.6rem;
+  font-size: $type-size-6;
+  color: $muted-text-color;
+}
+
 .publication-row__excerpt {
   display: block;
   margin-bottom: 0.75rem;

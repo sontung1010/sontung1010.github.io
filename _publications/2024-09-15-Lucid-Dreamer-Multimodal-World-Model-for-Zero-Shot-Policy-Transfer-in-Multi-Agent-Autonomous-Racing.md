@@ -1,5 +1,5 @@
 ---
-title: "Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing (ICRA 2025 Submission)"
+title: "Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing"
 collection: publications
 permalink: /publication/2024-09-15-Lucid-Dreamer-Multimodal-World-Model-for-Zero-Shot-Policy-Transfer-in-Multi-Agent-Autonomous-Racing
 excerpt: "Multimodal world models for zero-shot policy transfer in multi-agent autonomous racing."
