@@ -8,7 +8,7 @@ venue: "Submitted to IEEE International Conference on Robotics and Automation (I
 paperurl: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UkNYB_QAAAAJ&citation_for_view=UkNYB_QAAAAJ:u5HHmVD_uO8C"
 title_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UkNYB_QAAAAJ&citation_for_view=UkNYB_QAAAAJ:u5HHmVD_uO8C"
 authors_line: "Shrestha, E., Wan, H., Do, T., Rawal, M., Singh, S., and Vasudevan, R."
-display_year: 2025
+display_year: 2024
 submission_line: "ICRA 2025 Submission"
 project_url: "/portfolio/2024-09-15-portfolio/"
 compact_layout: true

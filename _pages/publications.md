@@ -21,10 +21,10 @@ author_profile: true
   {% if post.title == "PACCAR Summer 2024 Internship" %}
     {% include archive-single-row.html %}
   {% endif %}
-  {% if post.title == "Hexapod Robot for Multi-Terrain Exploration (Work in Progress)" %}
+  {% if post.title == "Hexapod Robot for Multi-Terrain Exploration" %}
     {% include archive-single-row.html %}
   {% endif %}
-  {% if post.title == "Bionic Arm (Work in Progress)" %}
+  {% if post.title == "Bionic Arm" %}
     {% include archive-single-row.html %}
   {% endif %}
 {% endfor %}

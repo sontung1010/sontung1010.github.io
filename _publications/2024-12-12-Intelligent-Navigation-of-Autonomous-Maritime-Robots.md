@@ -8,7 +8,7 @@ venue: "Preparation toward Conference on Robot Learning (CoRL)"
 paperurl: "/files/Heron_USV_RL_Final_report.pdf"
 title_url: "/files/Heron_USV_RL_Final_report.pdf"
 authors_line: "Shrestha, E., Do, T., Wakevainen, K., Song, J., and Skinner, K."
-display_year: 2025
+display_year: 2024
 submission_line: "CoRL 2025 Submission"
 project_url: "/portfolio/2024-09-20-portfolio/"
 compact_layout: true
