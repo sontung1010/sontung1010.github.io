@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Tung Do"
-  avatar           : "profile2.jpg"
-  bio              : "M.Sc. Electrical and Computer Engineering - Robotics candidate |  Graduate Research Assistant | Robotics Engineer"
-  location         : "Ann Arbor, MI, USA"
-  employer         : "University of Michigan"
+  avatar           : "profile.jpg"
+  bio              : "Senior Humanoid Robotics Engineer | Technical Project Manager | M.Sc. ECE-Robotics"
+  location         : "Hanoi, Vietnam"
+  employer         : "VinMotion"
   pubmed           : 
-  googlescholar    :  
+  googlescholar    : "https://scholar.google.com/citations?user=UkNYB_QAAAAJ&hl=en"
   email            : "sontungcodedao@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@VinMotionOfficial"
   wikipedia        :
 
 
