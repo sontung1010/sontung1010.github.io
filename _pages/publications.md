@@ -11,8 +11,20 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign selected_projects = site.portfolio | where_exp: "item", "item.title == 'PACCAR Summer 2024 Internship' or item.title == 'Hexapod Robot for Multi-Terrain Exploration (Work in Progress)' or item.title == 'Bionic Arm (Work in Progress)'" %}
-{% assign publications = site.publications | concat: selected_projects | sort: "date" | reverse %}
+{% assign publications = site.publications | sort: "date" | reverse %}
 {% for post in publications %}
   {% include archive-single-row.html %}
+{% endfor %}
+
+{% assign projects = site.portfolio | sort: "date" | reverse %}
+{% for post in projects %}
+  {% if post.title == "PACCAR Summer 2024 Internship" %}
+    {% include archive-single-row.html %}
+  {% endif %}
+  {% if post.title == "Hexapod Robot for Multi-Terrain Exploration (Work in Progress)" %}
+    {% include archive-single-row.html %}
+  {% endif %}
+  {% if post.title == "Bionic Arm (Work in Progress)" %}
+    {% include archive-single-row.html %}
+  {% endif %}
 {% endfor %}
