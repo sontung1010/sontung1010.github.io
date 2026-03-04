@@ -7,11 +7,10 @@ main:
   #   url: /teaching/    
     
   - title: "CV"
-    url: https://sontung1010.github.io/files/TungDo_Curriculum_Vitae.pdf
-    external: true
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "More..."
+  - title: "Blog Posts"
     url: /year-archive/

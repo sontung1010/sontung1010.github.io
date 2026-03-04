@@ -267,6 +267,22 @@
   flex: 0 0 60px;
 }
 
+.cv-embed {
+  width: 100%;
+  height: 85vh;
+  min-height: 720px;
+  margin: 1.5rem 0 2rem;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  overflow: hidden;
+}
+
+.cv-embed iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
 
 /*
    Features

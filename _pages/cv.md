@@ -11,6 +11,14 @@ redirect_from:
 
 [[***Download latest version, updated Nov 22, 2024***](/files/TungDo_Curriculum_Vitae.pdf)]
 
+<div class="cv-embed">
+  <iframe
+    src="{{ '/files/TungDo_Curriculum_Vitae.pdf' | relative_url }}#view=FitH"
+    title="Tung Do CV"
+    loading="lazy">
+  </iframe>
+</div>
+
 Education
 ======
 * **University of Michigan**, Ann Arbor, MI, USA, Aug 2023-May 2025 (expected)
