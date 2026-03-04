@@ -14,8 +14,6 @@
 
 {% assign publication_title_url = false %}
 {% assign publication_project_url = false %}
-{% assign show_publication_placeholder = false %}
-
 {% if post.collection == 'portfolio' %}
   {% if post.publication_url %}
     {% if post.publication_url contains "://" %}
@@ -24,7 +22,7 @@
       {% assign publication_title_url = post.publication_url | prepend: base_path %}
     {% endif %}
   {% else %}
-    {% assign show_publication_placeholder = true %}
+    {% assign publication_title_url = "/" | prepend: base_path %}
   {% endif %}
 {% elsif post.title_url %}
   {% if post.title_url contains "://" %}
@@ -77,10 +75,6 @@
         {{ title }}
       {% endif %}
     </h2>
-
-    {% if show_publication_placeholder %}
-      <p class="publication-row__placeholder">Publication link coming soon.</p>
-    {% endif %}
 
     {% if post.authors_line and post.display_year %}
       <p class="publication-row__meta">{{ post.authors_line }} ({{ post.display_year }}).</p>
