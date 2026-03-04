@@ -9,6 +9,7 @@ paperurl: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user
 title_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UkNYB_QAAAAJ&citation_for_view=UkNYB_QAAAAJ:u5HHmVD_uO8C"
 authors_line: "Shrestha, E., Wan, H., Do, T., Rawal, M., Singh, S., and Vasudevan, R."
 display_year: 2025
+submission_line: "ICRA 2025 Submission"
 project_url: "/portfolio/2024-09-15-portfolio/"
 compact_layout: true
 citation: 'Shrestha, E., Wan, H., Do, T., Rawal, M., Singh, S., & Vasudevan, R. (2024). Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing. Submitted to IEEE International Conference on Robotics and Automation (ICRA).'

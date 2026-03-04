@@ -60,6 +60,10 @@
       <p class="publication-row__meta"><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
 
+    {% if post.submission_line %}
+      <p class="publication-row__submission">{{ post.submission_line }}</p>
+    {% endif %}
+
     {% unless post.compact_layout %}
       {% if post.excerpt %}
         <div class="archive__item-excerpt publication-row__excerpt" itemprop="description">

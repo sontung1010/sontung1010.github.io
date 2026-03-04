@@ -217,6 +217,12 @@
   margin-top: 0.6rem;
 }
 
+.publication-row__submission {
+  margin-top: -0.15rem;
+  margin-bottom: 0.5rem;
+  font-size: $type-size-6;
+}
+
 @include breakpoint($medium) {
   .publication-row {
     flex-direction: row;
