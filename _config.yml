@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "VinMotionOfficial"
+  youtube          : "https://www.youtube.com/@VinMotionOfficial"
   wikipedia        :
 
 
@@ -187,9 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  archive_projects:
-    output: true
-    permalink: /archive-projects/:path/
+  # archive_projects:
+  #   output: true
+  #   permalink: /archive-projects/:path/
 
 
 # Defaults
