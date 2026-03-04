@@ -178,7 +178,7 @@ $publication-row-title-size: 14px !default;
 .publication-row {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center;
   gap: 1rem;
   margin-bottom: 2.5rem;
   padding-bottom: 2rem;
@@ -186,7 +186,7 @@ $publication-row-title-size: 14px !default;
 }
 
 .publication-row__media {
-  flex: 0 0 clamp(80px, 26vw, 120px);
+  flex: 0 0 clamp(92px, 30vw, 136px);
 }
 
 .publication-row__media img {
@@ -242,8 +242,14 @@ $publication-row-title-size: 14px !default;
   line-height: 1.3;
 }
 
+/* Keep thumbnail and content vertically centered on landing page rows. */
+.landing-publications-list .publication-row {
+  align-items: center;
+}
+
 @include breakpoint($medium) {
   .publication-row {
+    align-items: flex-start;
     gap: 1.5rem;
   }
 

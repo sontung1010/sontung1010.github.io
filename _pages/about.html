@@ -49,6 +49,7 @@ redirect_from:
 
 <h1>Publications and Projects</h1>
 
+<div class="landing-publications-list">
 {% assign featured_publications = site.publications | sort: "date" | reverse %}
 {% for post in featured_publications %}
   {% include archive-single-row.html %}
@@ -66,3 +67,4 @@ redirect_from:
     {% include archive-single-row.html %}
   {% endif %}
 {% endfor %}
+</div>
