@@ -12,9 +12,6 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
   - title: "CV"
     url: https://sontung1010.github.io/files/TungDo_Curriculum_Vitae.pdf
     external: true

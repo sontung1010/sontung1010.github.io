@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Projects"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,7 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign publications = site.publications | sort: "date" | reverse %}
+{% assign selected_projects = site.portfolio | where_exp: "item", "item.title == 'PACCAR Summer 2024 Internship' or item.title == 'Hexapod Robot for Multi-Terrain Exploration (Work in Progress)' or item.title == 'Bionic Arm (Work in Progress)'" %}
+{% assign publications = site.publications | concat: selected_projects | sort: "date" | reverse %}
 {% for post in publications %}
   {% include archive-single-row.html %}
 {% endfor %}

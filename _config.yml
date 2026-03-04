@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tung's Portfolio"
+title                    : "Tung Do"
 title_separator          : "-"
 name                     : &name "Tung Do"
 description              : &description "personal description"
