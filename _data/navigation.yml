@@ -12,9 +12,6 @@ main:
   - title: "Portfolio"
     url: /
         
-  - title: "Archive Projects"
-    url: /archive-projects/
-
   - title: "CV"
     url: https://sontung1010.github.io/files/TungDo_Curriculum_Vitae.pdf
     external: true
