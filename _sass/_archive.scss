@@ -177,15 +177,16 @@ $publication-row-title-size: 14px !default;
 
 .publication-row {
   display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 1rem;
   margin-bottom: 2.5rem;
   padding-bottom: 2rem;
   border-bottom: 1px solid $border-color;
 }
 
 .publication-row__media {
-  flex: 0 0 280px;
+  flex: 0 0 clamp(110px, 34vw, 170px);
 }
 
 .publication-row__media img {
@@ -243,11 +244,11 @@ $publication-row-title-size: 14px !default;
 
 @include breakpoint($medium) {
   .publication-row {
-    flex-direction: row;
-    align-items: flex-start;
+    gap: 1.5rem;
   }
 
   .publication-row__media {
+    flex: 0 0 280px;
     width: 280px;
   }
 
