@@ -151,6 +151,27 @@
   }
 }
 
+.grid__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: stretch;
+}
+
+.grid__wrapper .grid__item {
+  flex: 1 1 100%;
+  margin-bottom: 0;
+  width: auto;
+}
+
+@include breakpoint($medium) {
+  .grid__wrapper .grid__item {
+    flex-basis: calc(50% - 1rem);
+    max-width: calc(50% - 1rem);
+    width: auto;
+  }
+}
+
 
 /*
    Features
