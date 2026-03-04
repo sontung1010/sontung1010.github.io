@@ -213,6 +213,10 @@
   font-size: $type-size-6;
 }
 
+.publication-row__actions {
+  margin-top: 0.6rem;
+}
+
 @include breakpoint($medium) {
   .publication-row {
     flex-direction: row;

@@ -12,10 +12,26 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% if post.title_url %}
+  {% assign publication_title_url = post.title_url %}
+{% elsif post.link %}
+  {% assign publication_title_url = post.link %}
+{% else %}
+  {% assign publication_title_url = post.url | prepend: base_path %}
+{% endif %}
+
+{% if post.project_url %}
+  {% if post.project_url contains "://" %}
+    {% assign publication_project_url = post.project_url %}
+  {% else %}
+    {% assign publication_project_url = post.project_url | prepend: base_path %}
+  {% endif %}
+{% endif %}
+
 <article class="publication-row" itemscope itemtype="http://schema.org/CreativeWork">
   {% if teaser %}
     <div class="publication-row__media">
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+      <a href="{{ publication_title_url }}">
         <img src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
@@ -31,31 +47,37 @@
 
   <div class="publication-row__body">
     <h2 class="archive__item-title publication-row__title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
+      <a href="{{ publication_title_url }}">{{ title }}</a>
     </h2>
 
-    {% if post.collection == 'publications' %}
+    {% if post.authors_line and post.display_year %}
+      <p class="publication-row__meta">{{ post.authors_line }} ({{ post.display_year }}).</p>
+    {% elsif post.authors_line %}
+      <p class="publication-row__meta">{{ post.authors_line }}</p>
+    {% elsif post.collection == 'publications' %}
       <p class="publication-row__meta">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
     {% elsif post.date %}
       <p class="publication-row__meta"><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
 
-    {% if post.excerpt %}
-      <div class="archive__item-excerpt publication-row__excerpt" itemprop="description">
-        {{ post.excerpt | markdownify }}
-      </div>
-    {% endif %}
+    {% unless post.compact_layout %}
+      {% if post.excerpt %}
+        <div class="archive__item-excerpt publication-row__excerpt" itemprop="description">
+          {{ post.excerpt | markdownify }}
+        </div>
+      {% endif %}
 
-    {% if post.citation and post.paperurl %}
-      <p class="publication-row__links">Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-    {% elsif post.citation %}
-      <p class="publication-row__links">Recommended citation: {{ post.citation }}</p>
-    {% elsif post.paperurl %}
-      <p class="publication-row__links">Download <a href="{{ post.paperurl }}"><u>here</u></a></p>
+      {% if post.citation and post.paperurl %}
+        <p class="publication-row__links">Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      {% elsif post.citation %}
+        <p class="publication-row__links">Recommended citation: {{ post.citation }}</p>
+      {% elsif post.paperurl %}
+        <p class="publication-row__links">Download <a href="{{ post.paperurl }}"><u>here</u></a></p>
+      {% endif %}
+    {% endunless %}
+
+    {% if publication_project_url %}
+      <p class="publication-row__actions"><a href="{{ publication_project_url }}" class="btn btn--small">Project website</a></p>
     {% endif %}
   </div>
 </article>
