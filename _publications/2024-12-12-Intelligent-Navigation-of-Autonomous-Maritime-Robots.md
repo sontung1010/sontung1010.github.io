@@ -2,10 +2,13 @@
 title: "*Intelligent Navigation of Autonomous Maritime Robots* (toward CoRL Submission)"
 collection: publications
 permalink: /publication/2024-12-12-Intelligent-Navigation-of-Autonomous-Maritime-Robots
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: "Model-based reinforcement learning for robust autonomous maritime navigation in dynamic environments."
 date: 2024-12-12
-# venue: 'Journal 1'
+venue: "Preparation toward Conference on Robot Learning (CoRL)"
+paperurl: "/files/Heron_USV_RL_Final_report.pdf"
 citation: 'Shrestha, E., Do, T., Wakevainen, K., Song, J., & Skinner, K. (2024). Intelligent Navigation of Autonomous Maritime Robots. Preparation toward the Conference on Robot Learning 2025'
+header:
+  teaser: /images/usv.png
 ---
 - Abstract-
 - Index Terms:

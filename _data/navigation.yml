@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "About Me"
+    url: /
+
   - title: "Publications"
     url: /publications/
 
@@ -10,7 +13,7 @@ main:
   #   url: /teaching/    
     
   - title: "Portfolio"
-    url: /
+    url: /portfolio/
         
   - title: "CV"
     url: https://sontung1010.github.io/files/TungDo_Curriculum_Vitae.pdf
@@ -18,9 +21,6 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
-
-  - title: "About Me"
-    url: /about/
 
   - title: "More..."
     url: /year-archive/
