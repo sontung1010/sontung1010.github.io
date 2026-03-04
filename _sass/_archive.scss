@@ -2,6 +2,9 @@
    ARCHIVE
    ========================================================================== */
 
+// Single control for publication/project title size.
+$publication-row-title-size: 14px !default;
+
 .archive {
   margin-bottom: 2em;
 
@@ -197,7 +200,7 @@
 
 .publication-row__title {
   margin-top: 0;
-  font-size: 14px;
+  font-size: $publication-row-title-size;
   line-height: 1.3;
 }
 
