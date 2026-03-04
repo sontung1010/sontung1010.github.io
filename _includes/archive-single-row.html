@@ -68,13 +68,13 @@
   {% endif %}
 
   <div class="publication-row__body">
-    <h2 class="archive__item-title publication-row__title" itemprop="headline">
+    <h3 class="archive__item-title" itemprop="headline">
       {% if publication_title_url %}
         <a href="{{ publication_title_url }}">{{ title }}</a>
       {% else %}
         {{ title }}
       {% endif %}
-    </h2>
+    </h3>
 
     {% if post.authors_line and post.display_year %}
       <p class="publication-row__meta">{{ post.authors_line }} ({{ post.display_year }}).</p>
