@@ -15,7 +15,7 @@ redirect_from:
 
 <p>My recent projects span model-based reinforcement learning for autonomous racing and maritime navigation, robotic prototyping, and safety-critical autonomy. For collaborations or professional inquiries, I can be reached by <a href="mailto:sontungcodedao@gmail.com">email</a> or through <a href="https://www.linkedin.com/in/tung-do-534525231/" target="_blank">LinkedIn</a>.</p>
 
-<h2>Professional</h2>
+<h1>Professional</h1>
 <ul>
   <li>Senior Humanoid Robotics Engineer, VinMotion</li>
   <li>Graduate Research Assistant, University of Michigan Field Robotics Group</li>
@@ -23,17 +23,15 @@ redirect_from:
   <li>Advanced Mobility Tech Engineering Intern, PACCAR</li>
 </ul>
 
-<h2>Education</h2>
+<h1>Education</h1>
 <ul>
   <li>M.S. in Electrical and Computer Engineering (Robotics), University of Michigan, Ann Arbor</li>
   <li>B.S. in Electromechanical Systems Engineering Technology, California State Polytechnic University, Pomona</li>
 </ul>
 
-<h2>Publications and Projects</h2>
+<h1>Publications and Projects</h1>
 
-<div class="grid__wrapper">
 {% assign featured_publications = site.publications | sort: "date" | reverse %}
 {% for post in featured_publications %}
-  {% include archive-single.html type="grid" %}
+  {% include archive-single-row.html %}
 {% endfor %}
-</div>
