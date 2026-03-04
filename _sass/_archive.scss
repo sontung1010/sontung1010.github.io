@@ -180,8 +180,8 @@ $publication-row-title-size: 14px !default;
   flex-direction: row;
   align-items: center;
   gap: 1rem;
-  margin-bottom: 0.75rem;
-  padding-bottom: 0.7rem;
+  margin-bottom: 0.45rem;
+  padding-bottom: 0.45rem;
   border-bottom: 1px solid $border-color;
 }
 
@@ -191,7 +191,7 @@ $publication-row-title-size: 14px !default;
 }
 
 .publication-row__media {
-  flex: 0 0 clamp(112px, 36vw, 172px);
+  flex: 0 0 clamp(124px, 40vw, 196px);
   max-width: 48vw;
 }
 
@@ -255,6 +255,8 @@ $publication-row-title-size: 14px !default;
 
 @include breakpoint($medium) {
   .publication-row {
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.7rem;
     gap: 1.5rem;
   }
 
